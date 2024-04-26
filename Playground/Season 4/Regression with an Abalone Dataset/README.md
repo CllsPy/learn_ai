@@ -6,3 +6,6 @@ Your Goal: The goal of this competition is to predict the age of abalone from va
 
 # Evaluation
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
+
+# Citation
+Walter Reade, Ashley Chow. (2024). Regression with an Abalone Dataset. Kaggle. https://kaggle.com/competitions/playground-series-s4e4
