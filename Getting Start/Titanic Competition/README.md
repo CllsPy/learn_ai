@@ -1,5 +1,6 @@
-# Description 
+![image](https://github.com/CllsPy/Kaggle_Competition_Scripts/assets/96326019/9b502138-01ba-422a-be62-245c14aab777)
 
+# Description 
 Ahoy, welcome to Kaggle! You’re in the right place.
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
