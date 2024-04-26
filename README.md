@@ -1,3 +1,5 @@
+![image](https://github.com/CllsPy/Kaggle_Competition_Scripts/assets/96326019/0631a217-2324-4c8a-9d7b-2a6654456072)
+
 # Kaggle
 O [Kaggle](https://www.kaggle.com/carloscll) é uma comunidade criada em 2010 que tem hospedado competições regularmente com os mais diversos temas como saúde, engenharia, computação. Abragendo tópicos na IA como Machine Learning, Deep Learning, Generative IA.
 
