@@ -1,5 +1,6 @@
-# Overview
+![image](https://github.com/CllsPy/Kaggle_Competition_Scripts/assets/96326019/e3bccf53-9125-4cfa-9460-8097f2832d9c)
 
+# Overview
 Welcome to the 2024 Kaggle Playground Series! We plan to continue in the spirit of previous playgrounds, providing interesting an approachable datasets for our community to practice their machine learning skills, and anticipate a competition each month.
 Your Goal: Predict the probability of various defects on steel plates. Good luck!
 
