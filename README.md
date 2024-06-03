@@ -1,4 +1,4 @@
-## This repository features a diverse range of educational materials, including:
+## Description
 
 1. Tutorials: Step-by-step guides covering fundamental AI topics such as machine learning, deep learning, natural language processing, computer vision, and more.
 2. Code Examples: Ready-to-use code snippets and sample projects illustrating AI algorithms and techniques implemented in popular programming languages like Python, TensorFlow, PyTorch, and scikit-learn.
