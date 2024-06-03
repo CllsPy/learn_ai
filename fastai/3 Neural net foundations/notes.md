@@ -4,7 +4,6 @@ Isso se chama layer, e a saída de cada layer vira a entrada do próximo e isso 
 
 Inicialmente cada parâmetro que multiplica os valores de entrada são aleatórios, mas podemos “melhorar” eles com algo chamado gradient descent.
 
-
 Um tensor é como um vetor, ele guarda vários valores e com várias dimensões.
 
 Com Pytorch é possível começar com valores randômicos e com um método chamado grad e um loop podemos ir encontrando valores cada vezes menores entre os pontos e a linha que trançamos para ter a menor perda possível.
@@ -15,14 +14,10 @@ Se o loop for muito grande em algum momento começamos a perder a qualidade do t
 
 ![image](https://github.com/CllsPy/Learn_AI_From_Scratch/assets/96326019/6ebfcb4d-ee05-4ead-ab47-0e542bab2a82)
 
-
-
 Uma rede neural por outro lado pode entender função bem mais complexas e como foi dito em dois passos importante:
 
+- Multiplicação de matrizes
 
-Multiplicação de matrizes
-
-Valores negativos viram zero
-
+- Valores negativos viram zero
 
 Existem uma série de coisas que podemos fazer com as redes neurais, como por exemplo usar convolução ao invés de multiplicar matrizes para evitar cálculos desnecessário, efetuar os cálculos na GPU ao invés da CPU ou quem sabe ao invés de começar com dados aleatórios podemos começar com dados que outro modelos aprendeu antes (transfer-learning).
