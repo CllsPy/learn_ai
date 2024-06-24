@@ -1,4 +1,4 @@
-# Math fro Deep Learning
+# Math for Deep Learning
 
 ## Performance Goals
 
