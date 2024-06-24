@@ -17,7 +17,7 @@
   - [Cálculo integral - KhanAcademy](https://pt.khanacademy.org/math/integral-calculus)
   - [Cálculo Multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
   - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-    
+
     
  * Aprender Álgebra
     - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
@@ -30,8 +30,9 @@
 
 ## Next Steps 
 * Redes Neurais
-    - [NN from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
-    - [Transformers from Stratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
+    - [NN from scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+    - [Transformers from stratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
+    - [Building a raytracer from scratch](https://www.youtube.com/watch?v=KaCe63v4D_Q&list=PL8ENypDVcs3H-TxOXOzwDyCm5f2fGXlIS)
 
 
 https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
