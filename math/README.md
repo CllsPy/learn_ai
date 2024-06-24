@@ -17,7 +17,7 @@
   - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     
  * Aprender Álgebra
-  - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
+    - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
 
 
 https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
