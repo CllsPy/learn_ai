@@ -34,5 +34,6 @@
     - [Transformers from stratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
     - [Building a raytracer from scratch](https://www.youtube.com/watch?v=KaCe63v4D_Q&list=PL8ENypDVcs3H-TxOXOzwDyCm5f2fGXlIS)
 
-
-https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
+## References
+- [Math For Understand Deep Learning](https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900)
+- [Roadmap - Neo](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16#3aff)
