@@ -15,6 +15,7 @@
 * Aprender Cálculo
   - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
   - [Cálculo integral - KhanAcademy](https://pt.khanacademy.org/math/integral-calculus)
+  - [Cálculo Multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
   - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     
     
