@@ -14,12 +14,17 @@
 ## Project Milestones
 * Aprender Cálculo
   - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
+  - [Cálculo integral - KhanAcademy](https://pt.khanacademy.org/math/integral-calculus)
   - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+    
     
  * Aprender Álgebra
     - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
     - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
     - [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
+
+* Aprender Estatística e Probabilidade
+    - 
 
 
 https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
