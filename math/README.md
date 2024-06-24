@@ -25,7 +25,7 @@
     - [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
 
 * Aprender Estatística e Probabilidade
-    - 
+    - [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
 
 
 https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
