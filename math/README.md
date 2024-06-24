@@ -10,3 +10,7 @@
 **Curriculum**: Eu quero implementar redes neurais sem o uso de frameworks; codar um raytracer; algorítimos da estatística sem usar nenhuma biblioteca e ao final acompanhar o código de um artigo e ser capz de reproduzir os resultado.
 
 **Timeframe**: 24 de Junho de 2024 até 24 de Agosto de 2025
+
+## Project Milestones
+* Aprender Cálculo
+  - [Cálculo Diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
