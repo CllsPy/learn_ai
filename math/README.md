@@ -26,6 +26,7 @@
 
 * Aprender Estatística e Probabilidade
     - [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
+    - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
 
 https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
