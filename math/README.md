@@ -13,4 +13,5 @@
 
 ## Project Milestones
 * Aprender Cálculo
-  - [Cálculo Diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
+  - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
+  - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
