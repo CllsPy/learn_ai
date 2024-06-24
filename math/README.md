@@ -28,5 +28,10 @@
     - [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
     - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 
+## Next Steps 
+* Redes Neurais
+    - [NN from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+    - [Transformers from Stratch](https://www.youtube.com/watch?v=ISNdQcPhsts)
+
 
 https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900
