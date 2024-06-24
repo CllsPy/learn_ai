@@ -1,3 +1,5 @@
+# Math fro Deep Learning
+
 ## Performance Goals
 
 * [Curto Prazo] Implementar a Matemática aprendida: Álgebra, Cálculo, Estatística e Probabildiade em Python.
