@@ -15,4 +15,4 @@
 * Aprender Cálculo
   - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
   - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-  - [Math for Deep Learning: What You Need to Know to Understand Neural Networks] - Livro
+  - [Math for Deep Learning: What You Need to Know to Understand Neural Networks - Livro](https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900)
