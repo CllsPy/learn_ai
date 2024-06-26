@@ -14,3 +14,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 * Implementar papers: Machine Learning e Deep Learning .
 * Construir meus próprios frameworks.
 * Construir aplicações com AI prontas para produção.
+
+## Project Goals
+**Outcome**: Conseguir um emprego como ML Engineer
+**Curriculum**: Implementação dos algorítimos de Machine learning e Deep learning: transformers, logistic regression e etc, criação de frameworks para ciência de dados, código das competições no Kaggle, implementação de papers artigos sobre a jornada de aprendizado
