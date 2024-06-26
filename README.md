@@ -11,3 +11,6 @@
 Whether your goal is to build intelligent applications, advance your career in AI, or simply satisfy your curiosity, the AI Learning Repository equips you with the knowledge and resources needed to succeed in this rapidly evolving field. Start your AI journey today and unlock the limitless possibilities of artificial intelligence!
 
 ## Performance Goals
+* Implementar papers: Machine Learning e Deep Learning .
+* Construir meus próprios frameworks.
+* Construir aplicações com AI prontas para produção.
