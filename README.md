@@ -21,3 +21,10 @@ Whether your goal is to build intelligent applications, advance your career in A
 **Curriculum**: Implementação dos algorítimos de Machine learning e Deep learning: transformers, logistic regression e etc, criação de frameworks para ciência de dados, código das competições no Kaggle, implementação de papers artigos sobre a jornada de aprendizado
 
 **Timeframe**:  25 de Junho de 2024 - 01 de Janeiro de 2025
+
+## Project Milestones
+* Aprender a Matemática
+    * Cálculo diferencial - KhanAcademy
+    * Cálculo integral - KhanAcademy
+    * Cálculo Multivariável - Khan Academy
+    * A essência do cálculo - 3B1B
