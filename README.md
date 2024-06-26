@@ -1,3 +1,5 @@
+# Learn AI from Stratch
+
 ## Description
 
 1. **Tutorials**: Step-by-step guides covering fundamental AI topics such as machine learning, deep learning, natural language processing, computer vision, and more.
@@ -7,3 +9,5 @@
 5. **Community Forums**: Engage with fellow learners, ask questions, share insights, and collaborate on AI-related projects in our vibrant community forums.
 
 Whether your goal is to build intelligent applications, advance your career in AI, or simply satisfy your curiosity, the AI Learning Repository equips you with the knowledge and resources needed to succeed in this rapidly evolving field. Start your AI journey today and unlock the limitless possibilities of artificial intelligence!
+
+## Performance Goals
