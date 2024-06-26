@@ -37,3 +37,10 @@ Whether your goal is to build intelligent applications, advance your career in A
 
       - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
       -  [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
+
+- Masterizar Python
+- Aprender Pytorch
+- Aprender Machine Learning
+- Aprender Deep Learning
+- Aprender sobre LLMs
+- Modelo em produção
