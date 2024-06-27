@@ -38,7 +38,7 @@ Whether your goal is to build intelligent applications, advance your career in A
       - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
       -  [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
 
-- Projeto com a álgebra aprendida
+- Aplicar a Matemática Aprendida
     - [Ray Tracing From Scratch in Python](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)
 
 
