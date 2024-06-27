@@ -60,3 +60,5 @@ Whether your goal is to build intelligent applications, advance your career in A
 
 ## Reference
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
+- [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)
+- [Lil'Log](https://lilianweng.github.io/)
