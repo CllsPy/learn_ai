@@ -46,6 +46,8 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [Parallel Programming with CUDA](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56191)
     - [The Complete Course of CUDA Programming 2024](https://www.udemy.com/course/cuda-course/?couponCode=ST18MT62524)
 
+- Implementar uma Neural Nets From Stratch
+    - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 ## Next Steps 
 
