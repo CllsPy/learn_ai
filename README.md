@@ -50,6 +50,9 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 ## Next Steps 
+- Concluir o curso da fastai
+- Primeira medalha no Kaggle
+- Construir meu próprio framework
 
 ## Reference
 - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
