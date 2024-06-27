@@ -44,6 +44,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 
 - Compreender o uso da GPU para Deep Learning e Machine Learning
     - [Parallel Programming with CUDA](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56191)
+    - [The Complete Course of CUDA Programming 2024](https://www.udemy.com/course/cuda-course/?couponCode=ST18MT62524)
 
 
 ## Next Steps 
