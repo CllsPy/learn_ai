@@ -43,6 +43,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [Implementar conceitos de Probabilidade e Estatística do zero - semelhante ao `statsmodels`](https://www.statsmodels.org/stable/index.html)
 
 - Compreender o uso da GPU para Deep Learning e Machine Learning
+    - [Parallel Programming with CUDA](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56191)
 
 
 ## Next Steps 
