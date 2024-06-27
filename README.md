@@ -44,3 +44,8 @@ Whether your goal is to build intelligent applications, advance your career in A
 - Aprender Deep Learning
 - Aprender sobre LLMs
 - Modelo em produção
+
+## Next Steps 
+
+## Reference
+- [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
