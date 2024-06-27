@@ -40,6 +40,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 
 - Aplicar a Matemática Aprendida
     - [Ray Tracing From Scratch in Python](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)
+    - [Implementar conceitos de Probabilidade e Estatística do zero - semelhante ao `statsmodels`](https://www.statsmodels.org/stable/index.html)
 
 
 ## Next Steps 
