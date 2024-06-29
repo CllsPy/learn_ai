@@ -65,6 +65,9 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)
     - [Lil'Log](https://lilianweng.github.io/)
     - [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/pdf/2310.20360)
+    - [LLM101n: Let's build a Storyteller](https://github.com/karpathy/LLM101n?tab=readme-ov-file)
+    - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
+    - [5 Formatting Techniques for Long-Form Content](https://www.nngroup.com/articles/formatting-long-form-content/)
 - Papers
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
  
