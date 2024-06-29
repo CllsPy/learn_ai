@@ -51,6 +51,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 
 ## Next Steps 
 - Masterizar Python
+  - [Python Fluente](https://pythonfluente.com/#_para_quem_%C3%A9_esse_livro)
 - Aprender R
 - Aprender Golang
 - Aprender C
