@@ -48,6 +48,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 
 - Implementar uma Neural Nets From Stratch
     - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+    - [Método do Gradiente](https://pt.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions/a/what-is-gradient-descent)
 
 ## Next Steps 
 - Masterizar Python
