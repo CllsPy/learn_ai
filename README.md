@@ -69,6 +69,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [The Rise of the AI Engineer](https://www.latent.space/p/ai-engineer)
     - [5 Formatting Techniques for Long-Form Content](https://www.nngroup.com/articles/formatting-long-form-content/)
     -  [Método do Gradiente](https://pt.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions/a/what-is-gradient-descent)
+    -  [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 - Papers
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
