@@ -40,3 +40,4 @@
 - [Math For Understand Deep Learning](https://www.amazon.com/Math-Deep-Learning-Understand-Networks/dp/1718501900)
 - [Roadmap - Neo](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16#3aff)
 - [Doing Math With Python](https://www.amazon.com/Doing-Math-Python-Programming-Statistics/dp/1593276400)
+- [Introdução Matemática: Deep Learning](https://arxiv.org/abs/2310.20360)
