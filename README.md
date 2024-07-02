@@ -54,6 +54,8 @@ Whether your goal is to build intelligent applications, advance your career in A
   - [Python Fluente](https://pythonfluente.com/#_para_quem_%C3%A9_esse_livro)
 - Aprender R
 - Aprender Golang
+  - Entender a sintaxe básica de GO
+    - [Um tour por Go](https://go-tour-br.appspot.com/tour/basics/1)
 - Aprender C
 - Concluir o curso da fastai
 - Primeira medalha no Kaggle
