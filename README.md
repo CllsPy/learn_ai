@@ -56,6 +56,8 @@ Whether your goal is to build intelligent applications, advance your career in A
 - Aprender Golang
   - Entender a sintaxe básica de GO
     - [Um tour por Go](https://go-tour-br.appspot.com/tour/basics/1)
+    - [Effective Go](https://go.dev/doc/effective_go)
+    - [Go by exemple](https://gobyexample.com/)
 - Aprender C
 - Concluir o curso da fastai
 - Primeira medalha no Kaggle
@@ -72,6 +74,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [5 Formatting Techniques for Long-Form Content](https://www.nngroup.com/articles/formatting-long-form-content/)
     -  [Método do Gradiente](https://pt.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives/optimizing-multivariable-functions/a/what-is-gradient-descent)
     -  [Mathematics for Machine Learning](https://mml-book.github.io/)
+    -  [Fast way to learn Go](https://www.reddit.com/r/golang/comments/1465pwq/fastest_way_to_learn_golang/)
 
 - Papers
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
