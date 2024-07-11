@@ -47,16 +47,17 @@ Whether your goal is to build intelligent applications, advance your career in A
 - Compreender o uso da GPU para Deep Learning e Machine Learning
     - [Parallel Programming with CUDA](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56191)
     - [The Complete Course of CUDA Programming 2024](https://www.udemy.com/course/cuda-course/?couponCode=ST18MT62524)
+    - [Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=nOxKexn3iBo)
 
 - Implementar uma Neural Nets From Stratch
     - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 ## Next Steps 
 - Masterizar Python
-  - [Python Fluente](https://pythonfluente.com/#_para_quem_%C3%A9_esse_livro)
+- [Python Fluente](https://pythonfluente.com/#_para_quem_%C3%A9_esse_livro)
 - Aprender R
 - Aprender Golang
-  - Entender a sintaxe básica de GO
+    - Entender a sintaxe básica de GO
     - [Um tour por Go](https://go-tour-br.appspot.com/tour/basics/1)
     - [Effective Go](https://go.dev/doc/effective_go)
     - [Go by exemple](https://gobyexample.com/)
