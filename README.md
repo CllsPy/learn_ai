@@ -23,6 +23,8 @@ Whether your goal is to build intelligent applications, advance your career in A
 **Timeframe**:  25 de Junho de 2024 - 01 de Janeiro de 2025
 
 ## Project Milestones
+* Soft Engineering
+  - Unit Test
 * Aprender a Matemática
   - Cálculo
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
