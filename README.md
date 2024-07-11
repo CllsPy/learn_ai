@@ -90,7 +90,3 @@ Whether your goal is to build intelligent applications, advance your career in A
   - Papers
     - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
     - [How to write  a paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
-
-- <details markdown='1'><summary> Toggle Ex</summary> 
-
-</details>
