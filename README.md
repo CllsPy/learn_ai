@@ -79,6 +79,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     -  [Fast way to learn Go](https://www.reddit.com/r/golang/comments/1465pwq/fastest_way_to_learn_golang/)
     -  [Ai Safety](https://80000hours.org/career-reviews/ai-safety-researcher/)
     -  [Python Documentation Contents](https://docs.python.org/3/contents.html)
+    -  [Data Science vs Data Engineering](https://www.datacamp.com/blog/data-scientist-vs-data-engineer)
 
 - Papers
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
