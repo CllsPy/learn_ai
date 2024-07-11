@@ -93,3 +93,5 @@ Whether your goal is to build intelligent applications, advance your career in A
   - [How to write  a paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
  
 
+
+<details markdown='1'><summary>Toggle</summary>
