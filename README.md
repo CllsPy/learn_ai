@@ -89,8 +89,8 @@ Whether your goal is to build intelligent applications, advance your career in A
         -  [Don’t be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
   - Papers
     - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
-    - How to write  a paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
+    - [How to write  a paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
 
-- <details markdown='1'><summary> Papers</summary> 
+- <details markdown='1'><summary> Toggle Ex</summary> 
 
 </details>
