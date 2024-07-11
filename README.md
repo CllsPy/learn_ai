@@ -24,7 +24,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 
 ## Project Milestones
 * Soft Engineering
-  - Unit Test
+  - [Unit Test](https://www.youtube.com/watch?v=6tNS--WetLI)
 * Aprender a Matemática
   - Cálculo
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
