@@ -80,6 +80,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     -  [Ai Safety](https://80000hours.org/career-reviews/ai-safety-researcher/)
     -  [Python Documentation Contents](https://docs.python.org/3/contents.html)
     -  [Data Science vs Data Engineering](https://www.datacamp.com/blog/data-scientist-vs-data-engineer)
+    -  [Calm Code](https://calmcode.io/)
     -  ZTM
         -  [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer)
         -  [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
