@@ -67,6 +67,7 @@ Whether your goal is to build intelligent applications, advance your career in A
 - Concluir o curso da fastai
 - Primeira medalha no Kaggle
 - Construir meu próprio framework
+- [Build a LLM from scratch](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
 ## Reference
 - Links Úteis
