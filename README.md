@@ -83,7 +83,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     -  [Data Science vs Data Engineering](https://www.datacamp.com/blog/data-scientist-vs-data-engineer)
     -  [Calm Code](https://calmcode.io/)
     -  ZTM
-        -  [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer)
+        -  [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer) [x]
         -  [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
         -  [How To Become An AI Engineer From Scratch in 2024](https://zerotomastery.io/blog/how-to-become-an-ai-engineer-from-scratch/)
         -  [Become a Great Software Engineer (Use These 4 Habits)](https://zerotomastery.io/blog/how-to-be-a-great-software-engineer/)
