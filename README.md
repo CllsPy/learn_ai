@@ -1,5 +1,7 @@
 # Learn AI from Stratch
 
+![image](https://github.com/user-attachments/assets/8eb0771b-d773-45f4-ab98-260f2be08b73)
+
 ## Description
 
 1. **Tutorials**: Step-by-step guides covering fundamental AI topics such as machine learning, deep learning, natural language processing, computer vision, and more.
