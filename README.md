@@ -28,8 +28,9 @@ Whether your goal is to build intelligent applications, advance your career in A
 * Matemática
   - Cálculo 
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
-      -  [x] Limites 
-      -  [x] Derivadas: definição e regras básicas 
+      -  [x] Unidade 1: Limites 
+      -  [x] Unidade 2: Derivadas: definição e regras básicas
+      -  [ ] Unidade 3: Derivadas: regra da cadeia e outros tópicos avançados
   - Álgebra Linear
       - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
       - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
