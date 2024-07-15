@@ -93,10 +93,10 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     -  ZTM
         -  [x] [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer) 
-        -  [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
-        -  [How To Become An AI Engineer From Scratch in 2024](https://zerotomastery.io/blog/how-to-become-an-ai-engineer-from-scratch/)
-        -  [Become a Great Software Engineer (Use These 4 Habits)](https://zerotomastery.io/blog/how-to-be-a-great-software-engineer/)
-        -  [Don’t be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+        -  [ ] [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
+        -  [ ] [How To Become An AI Engineer From Scratch in 2024](https://zerotomastery.io/blog/how-to-become-an-ai-engineer-from-scratch/)
+        -  [ ] [Become a Great Software Engineer (Use These 4 Habits)](https://zerotomastery.io/blog/how-to-be-a-great-software-engineer/)
+        -  [ ] [Don’t be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
   - Papers
     - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
     - [How to write  a paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
