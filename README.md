@@ -28,8 +28,8 @@ Whether your goal is to build intelligent applications, advance your career in A
 * Matemática
   - Cálculo 
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
-    -  [ ] Limites 
-    -  [ ] Derivadas: definição e regras básicas 
+      -  [x] Limites 
+      -  [x] Derivadas: definição e regras básicas 
   - Álgebra Linear
       - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
       - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -91,7 +91,7 @@ Whether your goal is to build intelligent applications, advance your career in A
     - [Cálculo Multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
     - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     -  ZTM
-        -  [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer) [ x ]
+        -  [x] [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer) 
         -  [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
         -  [How To Become An AI Engineer From Scratch in 2024](https://zerotomastery.io/blog/how-to-become-an-ai-engineer-from-scratch/)
         -  [Become a Great Software Engineer (Use These 4 Habits)](https://zerotomastery.io/blog/how-to-be-a-great-software-engineer/)
