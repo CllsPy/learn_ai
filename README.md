@@ -25,20 +25,21 @@ Whether your goal is to build intelligent applications, advance your career in A
 ## Project Milestones
 * Soft Engineering
   - [Unit Test](https://www.youtube.com/watch?v=6tNS--WetLI)
-* Aprender a Matemática
-  - Cálculo
+* Matemática
+  - Cálculo 
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
-    - [Cálculo integral - KhanAcademy](https://pt.khanacademy.org/math/integral-calculus)
-    - [Cálculo Multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
-    - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-  - Álgebra
+  - Álgebra Linear
       - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
       - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
       - [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
-  - Aprender Estatística e Probabilidade
-
+  -  Estatística e Probabilidade
       - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
       -  [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
+      -  Hypothesis Testing
+      -  Probability and Sampling
+      -  A/B Testing
+      -  Increasing Test Sensitivity
+      -  Ratio Metrics
 
 - Aplicar a Matemática Aprendida
     - [Ray Tracing From Scratch in Python](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)
@@ -83,6 +84,9 @@ Whether your goal is to build intelligent applications, advance your career in A
     -  [Python Documentation Contents](https://docs.python.org/3/contents.html)
     -  [Data Science vs Data Engineering](https://www.datacamp.com/blog/data-scientist-vs-data-engineer)
     -  [Calm Code](https://calmcode.io/)
+    -  [Cálculo integral - KhanAcademy](https://pt.khanacademy.org/math/integral-calculus)
+    - [Cálculo Multivariável - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
+    - [A essência do cálculo - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
     -  ZTM
         -  [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer) [x]
         -  [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
