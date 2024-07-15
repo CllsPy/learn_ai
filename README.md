@@ -60,6 +60,8 @@
 - [Build a LLM from scratch](https://www.youtube.com/watch?v=UU1WVnMk4E8)
 
 ## Reference
+- Books
+  - [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - Links Úteis
     -  [Ai and DS - RoadMap](https://roadmap.sh/ai-data-scientist)
     - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
