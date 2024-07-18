@@ -1,6 +1,6 @@
 # 🤖 **AI**
 
-![AI Image](https://github.com/user-attachments/assets/7d00b45e-f880-4295-8771-e890989454ee)
+![image](https://github.com/user-attachments/assets/e5d1bcb6-5372-40d5-ab20-af273848a413)
 
 ## 🌟 **Acknowledgements**
 - 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
@@ -22,7 +22,8 @@
 ## 🏆 **Project Milestones**
 
 ### 📚 **Mathematics**
-![image](https://github.com/user-attachments/assets/41225860-5f95-4f69-a7ff-4cf1223ffa97)
+![image](https://github.com/user-attachments/assets/5d23d2ff-d5bd-41c1-8a90-005aec6e1c63)
+
 
 - **Linear Algebra and Calculus**
   - [Differential Calculus - Khan Academy](https://pt.khanacademy.org/profile/me/courses)
