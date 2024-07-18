@@ -1,5 +1,8 @@
 # AI
 
+![image](https://github.com/user-attachments/assets/7d00b45e-f880-4295-8771-e890989454ee)
+
+
 ## Acknowledgement
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
@@ -39,6 +42,8 @@
   - [ ] Ratio Metrics
 
 ### Ferramentas
+![image](https://github.com/user-attachments/assets/7beb2d36-e627-46ac-b72d-5422ed59670c)
+
 - [ ] [Python](https://roadmap.sh/python)
 - [ ] Golang
 
@@ -69,7 +74,7 @@
     - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 
-## Reference
+## References
 - Books
   - [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - Links Úteis
