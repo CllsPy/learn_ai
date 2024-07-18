@@ -2,24 +2,22 @@
 
 ![image](https://github.com/user-attachments/assets/7d00b45e-f880-4295-8771-e890989454ee)
 
-
 ## Acknowledgement
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
-
 - [Lil](https://lilianweng.github.io/)
 - [Neo](https://www.bneo.xyz/)
 - [Leonie](https://x.com/helloiamleonie)
 
 ## Performance Goals
-* Implementar papers: Machine Learning e Deep Learning .
-* Construir meus próprios frameworks.
-* Construir aplicações com AI prontas para produção.
+- Implement machine learning and deep learning papers.
+- Build my own frameworks.
+- Develop production-ready AI applications.
 
 ## Project Goals
-**Outcome**: Conseguir um emprego como ML Engineer
+**Outcome**: Secure a job as an ML Engineer.
 
-**Curriculum**: Implementação dos algorítimos de Machine learning e Deep learning: transformers, logistic regression e etc, criação de frameworks para ciência de dados, código das competições no Kaggle, implementação de papers artigos sobre a jornada de aprendizado
+**Curriculum**: Implement machine learning and deep learning algorithms such as transformers and logistic regression. Create data science frameworks, participate in Kaggle competitions, and implement papers and articles on the learning journey.
 
 ## Project Milestones 
 
