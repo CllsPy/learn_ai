@@ -27,7 +27,10 @@
       - [ ] [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
       - [ ] [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
       - [ ] [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
-      - [ ] **Project: Write a Ray Tracer in Python Or Golang**
+
+      - **Project Ideias:
+        - [ ] **Implement Perceptron**
+        - [ ] Write a Ray Tracer in Python Or Golang**
 
 
 * **Estatística e Probabilidade**
