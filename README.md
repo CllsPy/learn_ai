@@ -22,7 +22,7 @@
 ## 🏆 **Project Milestones**
 
 ### 📚 **Mathematics**
-![Mathematics Image](https://github.com/user-attachments/assets/49636ecb-417f-4afd-ad6e-6a3b3bc10784)
+![image](https://github.com/user-attachments/assets/41225860-5f95-4f69-a7ff-4cf1223ffa97)
 
 - **Linear Algebra and Calculus**
   - [Differential Calculus - Khan Academy](https://pt.khanacademy.org/profile/me/courses)
