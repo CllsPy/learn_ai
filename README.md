@@ -52,9 +52,10 @@
 ![image](https://github.com/user-attachments/assets/7beb2d36-e627-46ac-b72d-5422ed59670c)
 
 - [ ] [Python](https://roadmap.sh/python)
-    - [X] Basic Sintaxe
-    - [X] Variables and Data Type
-    - [X] Conditionals
+  - [ ] Basics
+      - [X] Basic Sintaxe
+      - [X] Variables and Data Type
+      - [X] Conditionals
 - [ ] Golang
 
 ## Next Steps 
