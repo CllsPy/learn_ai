@@ -21,21 +21,21 @@
 
 ## Project Milestones 
 
-### Matemática
+### Mathematics
 ![image](https://github.com/user-attachments/assets/49636ecb-417f-4afd-ad6e-6a3b3bc10784)
 
-  - Linear Álgebra, Calculus
-    - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
-      -  [x] Unidade 1: Limites 
-      -  [x] Unidade 2: Derivadas: definição e regras básicas
-      -  [ ] Unidade 3: Derivadas: regra da cadeia e outros tópicos avançados
-      - [ ] [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
-      - [ ] [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-      - [ ] [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
+- **Linear Algebra and Calculus**
+  - [Differential Calculus - Khan Academy](https://pt.khanacademy.org/profile/me/courses)
+    - [x] Unit 1: Limits
+    - [x] Unit 2: Derivatives: Definition and Basic Rules
+    - [ ] Unit 3: Derivatives: Chain Rule and Other Advanced Topics
+  - [ ] [Algebra - Khan Academy](https://pt.khanacademy.org/math/linear-algebra)
+  - [ ] [The Essence of Linear Algebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+  - [ ] [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
 
-* **Estatística e Probabilidade**
-  - [ ] [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-  - [ ] [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
+- **Statistics and Probability**
+  - [ ] [Statistics - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+  - [ ] [Probability and Statistics - Khan Academy](https://pt.khanacademy.org/math/statistics-probability)
   - [ ] Hypothesis Testing
   - [ ] Probability and Sampling
   - [ ] A/B Testing
