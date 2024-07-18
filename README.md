@@ -7,6 +7,10 @@
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
 
+- [Lil](https://lilianweng.github.io/)
+- [Neo](https://www.bneo.xyz/)
+- [Leonie](https://x.com/helloiamleonie)
+
 ## Performance Goals
 * Implementar papers: Machine Learning e Deep Learning .
 * Construir meus próprios frameworks.
