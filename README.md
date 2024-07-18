@@ -47,7 +47,8 @@
 - [Neural Networks and Perceptron](https://www.youtube.com/watch?v=fEukSrpDPH0)
 
 ### 🛠️ **Tools**
-![Tools Image](https://github.com/user-attachments/assets/7beb2d36-e627-46ac-b72d-5422ed59670c)
+![image](https://github.com/user-attachments/assets/9d11f008-33d9-4fd5-83d7-24264d744ddc)
+
 
 - ⏳ [Python](https://roadmap.sh/python)
   - ✅ Basics
