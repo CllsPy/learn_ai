@@ -1,8 +1,8 @@
 # AI
 
-## Based On
+## Acknowledgement
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
-- 
+- [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
 
 ## Performance Goals
 * Implementar papers: Machine Learning e Deep Learning .
@@ -17,6 +17,8 @@
 ## Project Milestones 
 
 * **Matemática**
+![image](https://github.com/user-attachments/assets/49636ecb-417f-4afd-ad6e-6a3b3bc10784)
+
   - Linear Álgebra, Calculus
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
       -  [x] Unidade 1: Limites 
