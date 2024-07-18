@@ -45,7 +45,7 @@
   - [ ] Ratio Metrics
 
 #### Project CheckPoint
-- (Redes neurais e Perceptron)[https://www.youtube.com/watch?v=fEukSrpDPH0]
+- [Redes neurais e Perceptron](https://www.youtube.com/watch?v=fEukSrpDPH0)
 
 
 ### Ferramentas
