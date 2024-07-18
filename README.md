@@ -44,8 +44,8 @@
   - [ ] Increasing Test Sensitivity
   - [ ] Ratio Metrics
 
-#### Project: Implement the Perceptron Neuron
-- (Redes neurais e Perceptron)[https://www.youtube.com/watch?v=fEukSrpDPH0}
+#### Project CheckPoint
+- (Redes neurais e Perceptron)[https://www.youtube.com/watch?v=fEukSrpDPH0]
 
 
 ### Ferramentas
