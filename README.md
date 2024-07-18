@@ -34,7 +34,6 @@
       - [ ] [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
       - [ ] [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
       - [ ] [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
-      - [ ] **Project**: Implement the Perceptron Neuron
 
 * **Estatística e Probabilidade**
   - [ ] [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
@@ -44,6 +43,10 @@
   - [ ] A/B Testing
   - [ ] Increasing Test Sensitivity
   - [ ] Ratio Metrics
+
+#### Project: Implement the Perceptron Neuron
+- (Redes neurais e Perceptron)[https://www.youtube.com/watch?v=fEukSrpDPH0}
+
 
 ### Ferramentas
 ![image](https://github.com/user-attachments/assets/7beb2d36-e627-46ac-b72d-5422ed59670c)
