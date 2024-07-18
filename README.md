@@ -1,5 +1,9 @@
 # AI
 
+## Based On
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- 
+
 ## Performance Goals
 * Implementar papers: Machine Learning e Deep Learning .
 * Construir meus próprios frameworks.
@@ -10,20 +14,19 @@
 
 **Curriculum**: Implementação dos algorítimos de Machine learning e Deep learning: transformers, logistic regression e etc, criação de frameworks para ciência de dados, código das competições no Kaggle, implementação de papers artigos sobre a jornada de aprendizado
 
-## Project Milestones
-* Soft Engineering
-  - [Unit Test](https://www.youtube.com/watch?v=6tNS--WetLI)
-* Matemática
-  - Cálculo 
+## Project Milestones 
+
+* **Matemática**
+  - Linear Álgebra, Calculus
     - [Cálculo diferencial - KhanAcademy](https://pt.khanacademy.org/profile/me/courses)
       -  [x] Unidade 1: Limites 
       -  [x] Unidade 2: Derivadas: definição e regras básicas
       -  [ ] Unidade 3: Derivadas: regra da cadeia e outros tópicos avançados
-  - Álgebra Linear
-      - [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
-      - [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-      - [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
-  -  Estatística e Probabilidade
+      - [ ] [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
+      - [ ] [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+      - [ ][ Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
+      - 
+  -  **Estatística e Probabilidade**
       - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
       -  [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
       -  Hypothesis Testing
