@@ -38,17 +38,9 @@
   - [ ] Increasing Test Sensitivity
   - [ ] Ratio Metrics
 
-- Aplicar a Matemática Aprendida
-    - [Ray Tracing From Scratch in Python](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)
-    - [Implementar conceitos de Probabilidade e Estatística do zero - semelhante ao `statsmodels`](https://www.statsmodels.org/stable/index.html)
-
-- Compreender o uso da GPU para Deep Learning e Machine Learning
-    - [Parallel Programming with CUDA](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56191)
-    - [The Complete Course of CUDA Programming 2024](https://www.udemy.com/course/cuda-course/?couponCode=ST18MT62524)
-    - [Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=nOxKexn3iBo)
-
-- Implementar uma Neural Nets From Stratch
-    - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+### Ferramentas
+- [ ] [Python](https://roadmap.sh/python)
+- [ ] Golang
 
 ## Next Steps 
 - Masterizar Python
@@ -64,6 +56,18 @@
 - Primeira medalha no Kaggle
 - Construir meu próprio framework
 - [Build a LLM from scratch](https://www.youtube.com/watch?v=UU1WVnMk4E8)
+- Aplicar a Matemática Aprendida
+    - [Ray Tracing From Scratch in Python](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)
+    - [Implementar conceitos de Probabilidade e Estatística do zero - semelhante ao `statsmodels`](https://www.statsmodels.org/stable/index.html)
+
+- Compreender o uso da GPU para Deep Learning e Machine Learning
+    - [Parallel Programming with CUDA](https://www.reddit.com/r/MachineLearning/comments/w52iev/d_what_are_some_good_resources_to_learn_cuda/?rdt=56191)
+    - [The Complete Course of CUDA Programming 2024](https://www.udemy.com/course/cuda-course/?couponCode=ST18MT62524)
+    - [Getting Started With CUDA for Python Programmers](https://www.youtube.com/watch?v=nOxKexn3iBo)
+
+- Implementar uma Neural Nets From Stratch
+    - [Neural Networks from Scratch in Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
+
 
 ## Reference
 - Books
