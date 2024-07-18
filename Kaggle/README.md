@@ -1,4 +1,4 @@
-![Kaggle](https://github.com/CllsPy/Kaggle_Competition_Scripts/assets/96326019/0631a217-2324-4c8a-9d7b-2a6654456072)
+![image](https://github.com/user-attachments/assets/777963c3-936a-42ad-bd9c-5537eaed4a5d)
 
 # 🌐 Kaggle: A World of Data Science Challenges
 
