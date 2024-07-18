@@ -16,7 +16,7 @@
 
 ## Project Milestones 
 
-* **Matemática**
+### Matemática
 ![image](https://github.com/user-attachments/assets/49636ecb-417f-4afd-ad6e-6a3b3bc10784)
 
   - Linear Álgebra, Calculus
