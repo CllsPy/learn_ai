@@ -1,6 +1,5 @@
 # 🌐 Kaggle: A World of Data Science Challenges
-![image](https://github.com/user-attachments/assets/6d1003fc-6653-46b2-b113-6b61d055622d)
-
+![image](https://github.com/user-attachments/assets/6e6d0fd7-c37c-4b77-a52a-79f8f46ae168)
 
 [Kaggle](https://www.kaggle.com/carloscll) is a dynamic community founded in 2010, hosting competitions on a wide range of topics including:
 
