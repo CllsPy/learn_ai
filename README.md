@@ -24,16 +24,16 @@
       -  [ ] Unidade 3: Derivadas: regra da cadeia e outros tópicos avançados
       - [ ] [Álgebra - KhanAcademy](https://pt.khanacademy.org/math/linear-algebra)
       - [ ] [A essência da álgebra - 3B1B](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-      - [ ][ Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
+      - [ ] [Linear Algebra Concepts Every Data Scientist Should Know](https://medium.com/bitgrit-data-science-publication/linear-algebra-concepts-every-data-scientist-should-know-18b00bd453dd)
       - 
   -  **Estatística e Probabilidade**
-      - [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
-      -  [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
-      -  Hypothesis Testing
-      -  Probability and Sampling
-      -  A/B Testing
-      -  Increasing Test Sensitivity
-      -  Ratio Metrics
+      - [ ] [Estatística - StarQuest](https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
+      - [ ] [Probabilidade e Estatística - KhanAcademy](https://pt.khanacademy.org/math/statistics-probability)
+      - [ ] Hypothesis Testing
+      - [ ] Probability and Sampling
+      - [ ] A/B Testing
+      - [ ] Increasing Test Sensitivity
+      - [ ] Ratio Metrics
 
 - Aplicar a Matemática Aprendida
     - [Ray Tracing From Scratch in Python](https://omaraflak.medium.com/ray-tracing-from-scratch-in-python-41670e6a96f9)
