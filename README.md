@@ -5,6 +5,7 @@
 ## 🌟 **Acknowledgements**
 - 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
+- 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
 - 👩‍💻 [Lil](https://lilianweng.github.io/)
 - 🌐 [Neo](https://www.bneo.xyz/)
 - 🧠 [Leonie](https://x.com/helloiamleonie)
