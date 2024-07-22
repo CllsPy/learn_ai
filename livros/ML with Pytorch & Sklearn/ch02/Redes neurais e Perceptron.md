@@ -14,7 +14,8 @@ A receita para reproduzir um **Perceptron** é como segue:
 
 **Epochs**: os passos 2 e 3 precisam ser realizados em todos conjunto de dados, digamos se existem 1500 registros serão 1500 interações, cada vez que o Percpetron concluir as 1500 interações chamamos isto de **época/epoch.**
 
-- T**amanho do Batch**: estratégia para treinar os dados em partes, digamos 15 partes de 100 amostras.
+T**amanho do Batch**: estratégia para treinar os dados em partes, digamos 15 partes de 100 amostras.
+
 
 | Registro    | X1 | X2 | Target
 | -------- | ------- | ------- |  ------- |
