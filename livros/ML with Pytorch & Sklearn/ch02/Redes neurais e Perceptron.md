@@ -43,6 +43,11 @@ Agora para corrigir os erros, precisamos corrigir ele, desta forma:
 ## Bias
 O Bias é um peso adicional para dar "flexibilidade" ao modelo. Ele ajuda a determinar o limiar (**TRHESHOLD**). Por exemplo um modelo que computou 0 com Bias de 1 poderia disparar porque 0+1 seria 1.
 
+## Limitações
+O Perceptron é útill para problemas linearmente separáveis ou seja onde eu consigo claramente separar os dados.
+![image](https://github.com/user-attachments/assets/049efa6e-b279-4b3b-83a5-ae548495e264)
+
+
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
 [Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
