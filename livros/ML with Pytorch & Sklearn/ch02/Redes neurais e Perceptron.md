@@ -27,7 +27,8 @@ A receita para reproduzir um **Perceptron** é como segue:
 
 ##  FeedForward
 
-![image](https://github.com/user-attachments/assets/86209bff-3981-4190-90ff-903cd4bdfcf2)
+![image](https://github.com/user-attachments/assets/2b9ac3d5-6ceb-4557-b968-44d52080f914)
+
 
 
 ## References
