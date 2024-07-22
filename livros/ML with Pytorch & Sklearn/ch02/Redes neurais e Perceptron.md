@@ -32,3 +32,4 @@ A receita para reproduzir um **Perceptron** é como segue:
 
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
+[Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
