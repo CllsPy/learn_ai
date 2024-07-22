@@ -40,6 +40,8 @@ Agora para corrigir os erros, precisamos corrigir ele, desta forma:
 
 ![image](https://github.com/user-attachments/assets/5e0649b4-d632-4f49-b71d-4a87570c48d1)
 
+## Bias
+O Bias é um peso adicional para dar "flexibilidade" ao modelo. Ele ajuda a determinar o limiar (**TRHESHOLD**).
 
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
