@@ -25,5 +25,10 @@ A receita para reproduzir um **Perceptron** é como segue:
 | C    | 0    | 1    |  1
 
 
+##  FeedForward
+
+![image](https://github.com/user-attachments/assets/86209bff-3981-4190-90ff-903cd4bdfcf2)
+
+
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
