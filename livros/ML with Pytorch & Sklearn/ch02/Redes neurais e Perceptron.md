@@ -51,7 +51,8 @@ Em suma, o Perceptron é ruim para resolver o problema do XOR (Ou exclusivo).
 
 
 # References
-[Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
+- [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
 
-[Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
-[Perceptrons, Marvin](https://www.amazon.fr/Perceptrons-Intro-Computational-Geometry-Exp/dp/0262631113)
+- [Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
+
+- [Perceptrons, Marvin](https://www.amazon.fr/Perceptrons-Intro-Computational-Geometry-Exp/dp/0262631113)
