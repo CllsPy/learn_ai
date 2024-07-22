@@ -47,6 +47,8 @@ O Bias é um peso adicional para dar "flexibilidade" ao modelo. Ele ajuda a dete
 O Perceptron é útill para problemas linearmente separáveis ou seja onde eu consigo claramente separar os dados.
 ![image](https://github.com/user-attachments/assets/049efa6e-b279-4b3b-83a5-ae548495e264)
 
+Em suma, o Perceptron é ruim para resolver o problema do XOR (Ou exclusivo).
+
 
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
