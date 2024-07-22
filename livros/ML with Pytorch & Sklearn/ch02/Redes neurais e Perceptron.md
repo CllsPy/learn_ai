@@ -29,7 +29,10 @@ A receita para reproduzir um **Perceptron** é como segue:
 
 ![image](https://github.com/user-attachments/assets/2b9ac3d5-6ceb-4557-b968-44d52080f914)
 
+## Error
+Após o processamento precisamos corrigir os pesos (w) que foram iniciados de forma aleatória. Para isto usamos a seguinte fórmula:
 
+```error = target (o que eu queria) - predição (o que o modelo achou)```
 
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
