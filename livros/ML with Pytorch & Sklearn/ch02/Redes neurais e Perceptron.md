@@ -34,6 +34,13 @@ Após o processamento precisamos corrigir os pesos (w) que foram iniciados de fo
 
 ```error = target (o que eu queria) - predição (o que o modelo achou)```
 
+Agora para corrigir os erros, precisamos corrigir ele, desta forma:
+
+```novo peso = peso + learning_rate * erro * input```
+
+![image](https://github.com/user-attachments/assets/5e0649b4-d632-4f49-b71d-4a87570c48d1)
+
+
 ## References
 [Redes neurais e Perceptron - Aula 9](https://www.youtube.com/watch?v=fEukSrpDPH0)
 [Perceptron For Dummies](https://jilp.org/cbp/Daniel-slides.PDF)
