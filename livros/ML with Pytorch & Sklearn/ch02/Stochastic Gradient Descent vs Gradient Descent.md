@@ -3,7 +3,12 @@
 ## GD
 Gradient Descent é um algorítimo para encontrar o valor máixmo ou mínimo de uma função, em ML ou DP usamos para minimizar a função de custo.
 
+Gradient Descent não pode ser aplicado em qualquer função, ela precisa ter duas características:
+1. diferenciável
+2. convexa
+
 **Loss Function**
+
 Uma função de custo é um algorítimo para avaliar o quão bem nosso modelo performou no dataset ou seja quão bem ele aprendeu o padrão.
 
 ## Mini Batch SGD
@@ -11,8 +16,6 @@ Uma função de custo é um algorítimo para avaliar o quão bem nosso modelo pe
 [Mini Batch SGD](https://www.youtube.com/watch?v=FpDsDn-fBKA) é usado quando temos uma grande quantidade de dados.
 
 Mini Batch porque ao invés da atualização dos pesos (w) ocorrer após a análise sobre todas as amostras ela ocorre a cada número de Batch (pedaços).
-
-**How Gradiente Descent Works?**
 
 ## Useful resources
 - [Tutorial 12- Stochastic Gradient Descent vs Gradient Descent](https://www.youtube.com/watch?v=FpDsDn-fBKA)
