@@ -24,3 +24,4 @@ Mini Batch porque ao invés da atualização dos pesos (w) ocorrer após a anál
 ## Blog posts mentioned
 - [Gradient Descent Algorithm — a deep dive](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
 - [Introduction to Loss Functions](https://www.datarobot.com/blog/introduction-to-loss-functions/)
+- [Socratic Q&A ](https://socratic.org/calculus/derivatives/differentiable-vs-non-differentiable-functions#:~:text=So%20a%20point%20where%20the,%7Cx%7C%20at%200).)
