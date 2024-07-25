@@ -3,6 +3,8 @@
 **GD**
 Gradient Descent é um algorítimo para encontrar o valor máixmo ou mínimo de uma função, em ML ou DP usamos para minimizar a função de custo.
 
+Uma função de custo é um algorítimo para avaliar o quão bem nosso modelo performou no dataset ou seja quão bem ele aprendeu o padrão.
+
 **Mini Batch SGD**
 
 [Mini Batch SGD](https://www.youtube.com/watch?v=FpDsDn-fBKA) é usado quando temos uma grande quantidade de dados.
