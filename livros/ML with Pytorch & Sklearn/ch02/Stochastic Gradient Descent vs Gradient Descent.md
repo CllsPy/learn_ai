@@ -1,8 +1,10 @@
 ## Notes
 
 **Mini Batch SGD**
+
 [Mini Batch SGD](https://www.youtube.com/watch?v=FpDsDn-fBKA) é usado quando temos uma grande quantidade de dados.
-  - Porque Mini Batch?
+
+Mini Batch porque ao invés da atualização dos pesos (w) ocorrer após a análise sobre todas as amostras ela ocorre a cada número de Batch (pedaços).
 
 **How Gradiente Descent Works?**
 
