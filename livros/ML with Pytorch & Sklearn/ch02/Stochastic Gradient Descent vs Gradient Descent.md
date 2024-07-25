@@ -1,5 +1,8 @@
 ## Notes
 
+**GD**
+Gradient Descent é um algorítimo para encontrar o valor máixmo ou mínimo de uma função, em ML ou DP usamos para minimizar a função de custo.
+
 **Mini Batch SGD**
 
 [Mini Batch SGD](https://www.youtube.com/watch?v=FpDsDn-fBKA) é usado quando temos uma grande quantidade de dados.
