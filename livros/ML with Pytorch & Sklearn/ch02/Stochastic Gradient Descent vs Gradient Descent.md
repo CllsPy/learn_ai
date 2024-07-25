@@ -20,6 +20,7 @@ Mini Batch porque ao invés da atualização dos pesos (w) ocorrer após a anál
 ## Useful resources
 - [Tutorial 12- Stochastic Gradient Descent vs Gradient Descent](https://www.youtube.com/watch?v=FpDsDn-fBKA)
 - [Gradient descent Wikipedia](https://en.wikipedia.org/wiki/Gradient_descent)
+- [Understanding Concave and Convex Functions](https://www.youtube.com/watch?v=nOFXLCCvtm0)
 
 ## Blog posts mentioned
 - [Gradient Descent Algorithm — a deep dive](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21)
