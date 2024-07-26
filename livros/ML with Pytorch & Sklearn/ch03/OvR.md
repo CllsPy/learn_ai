@@ -3,7 +3,7 @@ Por padrão algo algorítimos de ML não suportam classificação de múltiplos 
 1. **One-vs-Rest (OvR)**
 2. **One-vs-One  (OvO)**
 
-Na estatégia OvR um problema multiclass é transformado em um problema binária para cada classe, na OvO o problema é dividido em um problema binária a cada par de classes.
+Na estatégia OvR um problema multiclass é transformado em um problema binário para cada classe, na OvO o problema é dividido em um problema binária a cada par de classes.
 
 **Blogs Mencionados**
 - [One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
