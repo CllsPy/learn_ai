@@ -48,8 +48,6 @@
 
 ### 🛠️ **Tools**
 ![image](https://github.com/user-attachments/assets/9d11f008-33d9-4fd5-83d7-24264d744ddc)
-
-
 - ⏳ [Python](https://roadmap.sh/python)
   - ✅ Basics
       - ✅ Basic Syntax
