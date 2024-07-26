@@ -16,7 +16,6 @@
 - 🚀 Develop production-ready AI applications.
 
 ## 📈 **Project Goals**
-**Outcome**: Secure a job as an ML Engineer.
 
 **Curriculum**: Implement machine learning and deep learning algorithms such as transformers and logistic regression. Create data science frameworks, participate in Kaggle competitions, and implement papers and articles on the learning journey.
 
