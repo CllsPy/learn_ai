@@ -45,16 +45,16 @@ Um exemplo de como os dados ficariam dispostos na aplicação do OvO seria:
 
 A fórmula para calcular o número de datasets é como segue: $(NumClasses * (NumClasses – 1)) / 2$
 
-### Implementação do método OvR para Logit
+### Implementação do método OvR para SVM
 
 ```python
-# logistic regression for multi-class classification using built-in one-vs-rest
+# SVM for multi-class classification using built-in one-vs-one
 from sklearn.datasets import make_classification
-from sklearn.linear_model import LogisticRegression
+from sklearn.svm import SVC
 # define dataset
 X, y = make_classification(n_samples=1000, n_features=10, n_informative=5, n_redundant=5, n_classes=3, random_state=1)
 # define model
-model = LogisticRegression(multi_class='ovr')
+model = SVC(decision_function_shape='ovo')
 # fit model
 model.fit(X, y)
 # make predictions
