@@ -14,6 +14,8 @@ Um exemplo de como os dados ficariam dispostos na aplicação do OvR seria:
 
 *considerando que inicialmente tinhamos ‘red,’ ‘blue,’ and ‘green‘.*
 
+### Implementação do método OvR para Logit
+
 ```python
 # logistic regression for multi-class classification using built-in one-vs-rest
 from sklearn.datasets import make_classification
