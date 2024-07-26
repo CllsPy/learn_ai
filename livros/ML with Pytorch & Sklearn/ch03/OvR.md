@@ -8,9 +8,9 @@ Na estatégia OvR um problema multiclass é transformado em um problema binário
 ## OvR
 Um exemplo de como os dados ficariam dispostos na aplicação do OvR seria:
 
-Binary Classification Problem 1: red vs [blue, green]
-Binary Classification Problem 2: blue vs [red, green]
-Binary Classification Problem 3: green vs [red, blue]
+- Binary Classification Problem 1: red vs [blue, green]
+- Binary Classification Problem 2: blue vs [red, green]
+- Binary Classification Problem 3: green vs [red, blue]
 
 *considerando que inicialmente tinhamos ‘red,’ ‘blue,’ and ‘green‘.*
 
