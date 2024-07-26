@@ -30,6 +30,9 @@ model.fit(X, y)
 yhat = model.predict(X)
 ```
 
+## OvO
+Um exemplo de como os dados ficariam dispostos na aplicação do OvO seria:
+
 **Futher Reading**
 - Page 503, Machine Learning: A Probabilistic Perspective, 2012.
 
