@@ -1,4 +1,4 @@
-Por padrão algo algorítimos de ML não suportam classificação de múltiplos **labels**, apenas classificação binária (e.x Logit, Perceptron e SVM). Existe no entanto uma forma de possibilitar que modelos limitados a classificação binária possam realizar classificações múltiplas, duas estratégias são:
+Por padrão alguns algorítimos de ML não suportam classificação de múltiplos **labels**, apenas classificação binária (e.x Logit, Perceptron e SVM). Existe no entanto uma forma de possibilitar que modelos limitados a classificação binária possam realizar classificações múltiplas, duas estratégias são:
 
 1. **One-vs-Rest (OvR)**
 2. **One-vs-One  (OvO)**
