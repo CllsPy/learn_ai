@@ -88,6 +88,7 @@
 - **Books**
   - [Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - **Useful Links**
+    - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
     - [AI and DS - Roadmap](https://roadmap.sh/ai-data-scientist)
     - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
     - [Introduction to Deep Learning](https://sebastianraschka.com/blog/2021/dl-course.html#l01-introduction-to-deep-learning)
