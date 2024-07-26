@@ -14,5 +14,8 @@ Binary Classification Problem 3: green vs [red, blue]
 
 *considerando que inicialmente tinhamos ‘red,’ ‘blue,’ and ‘green‘.*
 
+**Futher Reading**
+- Page 503, Machine Learning: A Probabilistic Perspective, 2012.
+
 **Blogs Mencionados**
 - [One-vs-Rest and One-vs-One for Multi-Class Classification](https://machinelearningmastery.com/one-vs-rest-and-one-vs-one-for-multi-class-classification/)
