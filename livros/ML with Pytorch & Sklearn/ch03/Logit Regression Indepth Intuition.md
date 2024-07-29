@@ -11,6 +11,12 @@ Na **PARTE I** do vídeo [Krish Naik](https://www.youtube.com/watch?v=uFfsSgQger
 
 _Fig.2 Messe caso é possível desenhar uma linha capaz de separar a parte **positiva** da **negativa** (Image Source: https://automaticaddison.com/linear-separability-and-the-xor-problem/)_
 
+Essa função tem equação dada por:
+
+- $y = mx + c$
+- $y = \betao + \betaix$ ou
+- $y = w^{t}x + b 
+
 ## Futher Readings
 
 ### YouTube
