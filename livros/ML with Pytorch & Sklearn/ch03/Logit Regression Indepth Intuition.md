@@ -29,6 +29,8 @@ Se tamarmos como base a equação $y = w^t x + b$ e assumirmos que o intercept �
 
 $$\sum_{i=1}^{n}  wi^t xi$$
 
+**Acima** do plano  $y = w^t x$  > 0 e **abaixo** dele  $y = w^t x$  < 0
+
 ## Futher Readings
 
 ### YouTube
