@@ -15,7 +15,7 @@ Essa função tem equação dada por:
 
 - $y = mx + c$
 - $y = \beta o + \beta ix$ ou
-- $y = w^t x + b 
+- $y = w^t x + b$
 
 ## Futher Readings
 
