@@ -17,6 +17,13 @@ Essa linha que separa as classes tem equação dada por:
 - $y = \beta o + \beta ix$ ou
 - $y = w^t x + b$
 
+onde,
+
+-  $m$ -> slope
+-  $c$ -> intercept
+-  $x$ -> data points
+
+
 ## Futher Readings
 
 ### YouTube
