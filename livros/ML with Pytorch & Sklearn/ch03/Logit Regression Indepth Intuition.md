@@ -44,6 +44,10 @@ $$\max \sum_{i=1}^{n}  yiwi^t xi$$
 
 Porque quando temos que $w^t x > 0$, sabemos que as classes foram classificadas corretamente.
 
+Para evitar que outliers afetam o classificação, calculamos:
+
+$$max f(\sum_{i=1}^{n}  yiwi^t xi)$$
+
 ## Futher Readings
 
 ### YouTube
