@@ -48,6 +48,8 @@ Para evitar que outliers afetam o classificação, calculamos:
 
 $$max \sum_{i=1}^{n} f(yiwi^t xi)$$
 
+$$yiwi^t xi = Z$$
+
 Isso para então a ser uma **SIGMOID-FUNCTION**.
 
 ![image](https://github.com/user-attachments/assets/9b562e8e-4470-4a4b-a357-96b424fd9385)
