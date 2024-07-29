@@ -50,6 +50,9 @@ $$max \sum_{i=1}^{n} f(yiwi^t xi)$$
 
 Isso para então a ser uma **SIGMOID-FUNCTION**.
 
+![image](https://github.com/user-attachments/assets/9b562e8e-4470-4a4b-a357-96b424fd9385)
+Fig.3 Sigmoid-Function (Image Source: https://www.researchgate.net/figure/The-Sigmoid-function-with-scaling-parameter-l-and-translation-parameter-e_fig3_340025904)
+
 ## Futher Readings
 
 ### YouTube
