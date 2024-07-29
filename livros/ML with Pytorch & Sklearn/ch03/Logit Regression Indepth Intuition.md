@@ -27,7 +27,7 @@ Na Regressão logistica a classe positiva é denotada por +1 e a classe negativa
 
 Se tamarmos como base a equação $y = w^t x + b$ e assumirmos que o intercept é zero ou seja, que sai da origem a equação se torna $y = w^t x$ e $w^t x$ nada mais é do que a distância entre o ponto e o plano. Como existem múltiplos pontos a soma das distância é dada por:
 
-$\sum_{i=1}^{\n} wi^t xi$
+$\sum_{i=1}^{n}  wi^t xi$
 
 ## Futher Readings
 
