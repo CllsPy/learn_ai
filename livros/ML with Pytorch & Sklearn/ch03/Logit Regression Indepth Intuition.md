@@ -46,7 +46,7 @@ Porque quando temos que $w^t x > 0$, sabemos que as classes foram classificadas 
 
 Para evitar que outliers afetam o classificação, calculamos:
 
-$$max f(\sum_{i=1}^{n}  yiwi^t xi)$$
+$$max \sum_{i=1}^{n} f(yiwi^t xi)$$
 
 ## Futher Readings
 
