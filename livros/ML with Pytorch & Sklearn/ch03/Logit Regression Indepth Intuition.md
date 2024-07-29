@@ -29,7 +29,7 @@ Se tamarmos como base a equação $y = w^t x + b$ e assumirmos que o intercept �
 
 $$\sum_{i=1}^{n}  wi^t xi$$
 
-**Acima** do plano  $y = w^t x$  > 0 e **abaixo** dele  $y = w^t x$  < 0
+**Acima** do plano  $y = w^t x$  > 0 e **abaixo** dele  $y = w^t x$  < 0. Isso significa que se o valor está acima do gráfico e é positivo, ele foi classificado corretamente (caso 1). No caso 2, o valor abaixo do gráfico precisa ser negativo para haver a classificação correta.
 
 ## Futher Readings
 
