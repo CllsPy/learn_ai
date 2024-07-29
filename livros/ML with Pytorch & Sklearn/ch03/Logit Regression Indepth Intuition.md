@@ -39,7 +39,8 @@ para, $w^t x > 0$
 
 
 A função de custa precisa ter o maior valor possível, deste modo:
-$$\max \sum_{i=1}^{n}  wi^t xi$$
+
+$$\max \sum_{i=1}^{n}  yiwi^t xi$$
 
 ## Futher Readings
 
