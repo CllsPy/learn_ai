@@ -1,6 +1,10 @@
+## Parte I
 Logistic Regression é usado, principalmente, para **Binary Classification** (e.g rain/no rain).
 
 ![image](https://github.com/user-attachments/assets/8de06392-f58b-4e4e-af65-4a22ac4b75d5)
+
+## Parte II
+Na **PARTE I** do vídeo [Krish Naik](https://www.youtube.com/watch?v=uFfsSgQgerw) explica porque não devemos usar Regressão Linear para problemas de Classificação.
 
 ## Futher Readings
 
