@@ -64,5 +64,7 @@ Aplicando a Sigmoid Function eliminamos os outliers porque esse produto  $yiwi^t
 
 - [Tutorial 36- Logistic Regression Indepth Intuition- Part 2| Data Science](https://www.youtube.com/watch?v=uFfsSgQgerw)
 
+- [Machine Learning Playlist - Krish Naik](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+
 ### Blogs
 - [Why Is Logistic Regression Called “Logistic Regression” And not a Logistic Classification?](https://medium.com/@praveenraj.gowd/why-is-logistic-regression-called-logistic-regression-and-not-a-logistic-classification-5a418293040d#:~:text=Linear%20regression%20gives%20a%20continuous,%E2%80%9CRegression%E2%80%9D%20in%20its%20name.)
