@@ -7,9 +7,10 @@ _Fig.1 Observe que as funções são linearmente separáveis._
 ## Parte II
 Na **PARTE I** do vídeo [Krish Naik](https://www.youtube.com/watch?v=uFfsSgQgerw) explica porque não devemos usar Regressão Linear para problemas de Classificação.
 
-![image](https://github.com/user-attachments/assets/3bfae1f1-13f5-4147-b8ba-ce4e1522bfd8)
+![image](https://github.com/user-attachments/assets/830c48ba-86f5-4702-b50f-4603092dcae0)
 
-_Fig.2 Messe caso é possível desenhar uma linha capaz de separar a parte **positiva** da **negativa** (Image Source: https://automaticaddison.com/linear-separability-and-the-xor-problem/)_
+
+_Fig.2 Messe caso é possível desenhar uma linha capaz de separar a parte **positiva** da **negativa** (Image Source: https://www.researchgate.net/figure/Figura-5-Exemplos-de-padroes-linearmente-e-nao-linearmente-separavel-respectivamente_fig4_266411199)_
 
 Essa linha que separa as classes tem equação dada por:
 
