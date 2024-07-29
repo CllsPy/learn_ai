@@ -19,9 +19,9 @@ Essa linha que separa as classes tem equação dada por:
 
 onde,
 
--  $m$ -> slope
--  $c$ -> intercept
--  $x$ -> data points
+-  $m$ --> slope
+-  $c$ --> intercept
+-  $x$ --> data points
 
 
 ## Futher Readings
