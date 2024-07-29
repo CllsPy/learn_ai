@@ -31,6 +31,9 @@ $$\sum_{i=1}^{n}  wi^t xi$$
 
 **Acima** do plano  $y = w^t x$  > 0 e **abaixo** dele  $y = w^t x$  < 0. Isso significa que se o valor está acima do gráfico e é positivo, ele foi classificado corretamente (caso 1). No caso 2, vamos ter que $y = w^t x  < 0$ é negativo e como para a classe negativa $y= -1$, significa que na parte superior o valor da distância precisa ser positiva para darmos o ponto como classificado corretamente.
 
+
+$$y*w^t x = -1(w^t x )$$ 
+
 ## Futher Readings
 
 ### YouTube
