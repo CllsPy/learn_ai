@@ -14,7 +14,7 @@ _Fig.2 Messe caso é possível desenhar uma linha capaz de separar a parte **pos
 Essa função tem equação dada por:
 
 - $y = mx + c$
-- $y = \betao + \betaix$ ou
+- $y = \beta o + \beta ix$ ou
 - $y = w^{t}x + b 
 
 ## Futher Readings
