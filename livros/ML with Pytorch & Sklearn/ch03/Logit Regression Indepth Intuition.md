@@ -42,7 +42,7 @@ A função de custo precisa ter o maior valor possível, deste modo:
 
 $$\max \sum_{i=1}^{n}  yiwi^t xi$$
 
-Porque quando temos que $w^t > 0$, sabemos que as classes foram classificadas corretamente.
+Porque quando temos que $w^t x > 0$, sabemos que as classes foram classificadas corretamente.
 
 ## Futher Readings
 
