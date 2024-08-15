@@ -105,12 +105,14 @@
     - [Integral Calculus - Khan Academy](https://pt.khanacademy.org/math/integral-calculus)
     - [Multivariable Calculus - Khan Academy](https://pt.khanacademy.org/math/multivariable-calculus)
     - [The Essence of Calculus - 3B1B](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-    - **ZTM**
-        - ✅ [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer)
-        - ⏳ [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
-        - ⏳ [How To Become An AI Engineer From Scratch in 2024](https://zerotomastery.io/blog/how-to-become-an-ai-engineer-from-scratch/)
-        - ⏳ [Become a Great Software Engineer (Use These 4 Habits)](https://zerotomastery.io/blog/how-to-be-a-great-software-engineer/)
-        - ⏳ [Don’t Be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+    <br>
+    
+    - ✅ [How To Become A 10x Developer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-10x-developer/#What-is-a-10x-Developer)
+    - ⏳ [How to Become a Machine Learning Engineer: Step-By-Step Guide](https://zerotomastery.io/blog/how-to-become-a-machine-learning-engineer/)
+    - ⏳ [How To Become An AI Engineer From Scratch in 2024](https://zerotomastery.io/blog/how-to-become-an-ai-engineer-from-scratch/)
+    - ⏳ [Become a Great Software Engineer (Use These 4 Habits)](https://zerotomastery.io/blog/how-to-be-a-great-software-engineer/)
+    - ⏳ [Don’t Be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
+      
   - **Papers**
     - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
     - [How to Write a Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
