@@ -85,6 +85,7 @@
 - **Books**
   - [Deep Learning, Ian Goodfellow, Yoshua Bengio, and Aaron Courville](https://www.deeplearningbook.org/)
 - **Useful Links**
+    - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
     - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
     - [AI and DS - Roadmap](https://roadmap.sh/ai-data-scientist)
     - [Python Deliberate Practice](https://github.com/robert8138/python-deliberate-practice)
