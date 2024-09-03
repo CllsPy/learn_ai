@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/be241f95-effd-4404-8dfd-19974f46578e)
 
+source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?curius=4829
 
 ## Roadmap (In Books)
 0. An Introduction to Statiscal Learning with Applications in R
