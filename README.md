@@ -1,6 +1,6 @@
-# 🤖 **AI**
+# 🤖 **Ultra-Learning Artificial Inteligence**
 
-## 🌟 **Acknowledgements**
+## 🌟 Acknowledgements
 - 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
 - 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
@@ -8,23 +8,13 @@
 - 🌐 [Neo](https://www.bneo.xyz/)
 - 🧠 [Leonie](https://x.com/helloiamleonie)
 
-## 🎯 **Performance Goals**
-- 🧩 Implement machine learning and deep learning papers.
-- 🛠️ Build my own frameworks.
-- 🚀 Develop production-ready AI applications.
-
-## 📈 **Project Goals**
-
-**Curriculum**: Implement machine learning and deep learning algorithms such as transformers and logistic regression. Create data science frameworks, participate in Kaggle competitions, and implement papers and articles on the learning journey.
-
 ## Road Map (In Books)
-
 0. An Introduction to Statiscal Learning with Applications in R
 1. Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python
 2. Ian Goodfellow and Yoshua Bengio and Aaron Courville
 3. Web Application Development with Streamlit
 
-## **References**
+## References
   - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
   - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
   - [AI and DS - Roadmap](https://roadmap.sh/ai-data-scientist)
