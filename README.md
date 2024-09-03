@@ -10,9 +10,10 @@
 
 ## Road Map (In Books)
 0. An Introduction to Statiscal Learning with Applications in R
-1. Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python
-2. Ian Goodfellow and Yoshua Bengio and Aaron Courville
-3. Web Application Development with Streamlit
+1. Machine Learning with PyTorch and Scikit-Learn: _Develop machine learning and deep learning models with Python_
+2. Natural Language Processing with Transformers: _Building Language Applications  with Hugging Face_
+3. Ian Goodfellow and Yoshua Bengio and Aaron Courville
+4. Web Application Development with Streamlit
 
 ## References
   - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
