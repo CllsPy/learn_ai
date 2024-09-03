@@ -36,7 +36,7 @@
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
   - [How to Write a Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
 
-## 🌟 Acknowledgements
+## Acknowledgements
 - 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
 - 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
