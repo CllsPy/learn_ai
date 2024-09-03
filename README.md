@@ -19,6 +19,9 @@
 
 ## Road Map (In Books)
 
+1. Machine Learning with PyTorch and Scikit-Learn: Develop machine learning and deep learning models with Python
+2. Ian Goodfellow and Yoshua Bengio and Aaron Courville
+
 ## **References**
   - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
   - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
