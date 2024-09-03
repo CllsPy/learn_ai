@@ -1,14 +1,6 @@
-# 🤖 **Ultra-Learning Artificial Inteligence**
+# 🤖 **Ultra-Learning Artificial Intelligence**
 
-## 🌟 Acknowledgements
-- 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
-- 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
-- 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
-- 👩‍💻 [Lil](https://lilianweng.github.io/)
-- 🌐 [Neo](https://www.bneo.xyz/)
-- 🧠 [Leonie](https://x.com/helloiamleonie)
-
-## Road Map (In Books)
+## Roadmap (In Books)
 0. An Introduction to Statiscal Learning with Applications in R
 1. Machine Learning with PyTorch and Scikit-Learn: _Develop machine learning and deep learning models with Python_
 2. Natural Language Processing with Transformers: _Building Language Applications  with Hugging Face_
@@ -43,3 +35,12 @@
   - [Don’t Be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
   - [How to Write a Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
+
+## 🌟 Acknowledgements
+- 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
+- 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+- 👩‍💻 [Lil](https://lilianweng.github.io/)
+- 🌐 [Neo](https://www.bneo.xyz/)
+- 🧠 [Leonie](https://x.com/helloiamleonie)
+
