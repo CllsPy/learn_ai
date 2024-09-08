@@ -21,3 +21,7 @@
 -  [ ] Lecture 16: Radial Basis Functions
 - [ ] Lecture 17: Three Learning Principles
 - [ ] Lecture 18: Epilogue
+
+## Lecture 3
+
+- [Linear Model](https://en.wikipedia.org/wiki/Linear_model)
