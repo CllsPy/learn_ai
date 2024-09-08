@@ -4,7 +4,7 @@
 
 
  - [X] Lecture 1: The Learning Problem
--  [ ] Lecture 2: Is Learning Feasible?
+-  [X] Lecture 2: Is Learning Feasible?
 -  [ ]  Lecture 3: The Linear Model I
 -  [ ] Lecture 4: Error and Noise
 -  [ ] Lecture 5: Training versus Testing
