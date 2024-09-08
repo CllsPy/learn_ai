@@ -3,21 +3,21 @@
 
 
 
- - [ ] Lecture 1: The Learning Problem
-- [ ] Lecture 2: Is Learning Feasible?
-- [ ]  Lecture 3: The Linear Model I
-- [ ] Lecture 4: Error and Noise
-- [ ] Lecture 5: Training versus Testing
-- [ ] Lecture 6: Theory of Generalization
-- [ ] Lecture 7: The VC Dimension
-- [ ] Lecture 8: Bias-Variance Tradeoff
-- [ ] Lecture 9: The Linear Model II
-- [ ] Lecture 10: Neural Networks
-- [ ] Lecture 11: Overfitting
-- [ ] Lecture 12: Regularization
-- [ ] Lecture 13: Validation
-- [ ] Lecture 14: Support Vector Machines
-- [ ] Lecture 15: Kernel Methods
-- [ ] Lecture 16: Radial Basis Functions
+ - [ X ] Lecture 1: The Learning Problem
+-  [ ] Lecture 2: Is Learning Feasible?
+-  [ ]  Lecture 3: The Linear Model I
+-  [ ] Lecture 4: Error and Noise
+-  [ ] Lecture 5: Training versus Testing
+-  [ ] Lecture 6: Theory of Generalization
+-  [ ] Lecture 7: The VC Dimension
+-  [ ] Lecture 8: Bias-Variance Tradeoff
+-  [ ] Lecture 9: The Linear Model II
+-  [ ] Lecture 10: Neural Networks
+-  [ ] Lecture 11: Overfitting
+-  [ ] Lecture 12: Regularization
+-  [ ] Lecture 13: Validation
+-  [ ] Lecture 14: Support Vector Machines
+-  [ ] Lecture 15: Kernel Methods
+-  [ ] Lecture 16: Radial Basis Functions
 - [ ] Lecture 17: Three Learning Principles
 - [ ] Lecture 18: Epilogue
