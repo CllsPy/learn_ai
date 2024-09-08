@@ -25,3 +25,4 @@
 ## Lecture 3
 
 - [Linear Model](https://en.wikipedia.org/wiki/Linear_model)
+ - [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
