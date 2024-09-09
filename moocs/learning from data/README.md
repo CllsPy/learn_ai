@@ -27,4 +27,4 @@
 - [Linear Model](https://en.wikipedia.org/wiki/Linear_model)
  - [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
  - [Exercises](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
-  - [Repo](https://github.com/amaas/stanford_dl_ex/blob/master/ex1/ex1a_linreg.m)
+   - [Repo](https://github.com/amaas/stanford_dl_ex/blob/master/ex1/ex1a_linreg.m)
