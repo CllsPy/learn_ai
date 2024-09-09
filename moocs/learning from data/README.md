@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/48f7f3fe-86d4-4859-b545-7e73eebbaca9)
+![image](https://github.com/user-attachments/assets/e7e9bdfe-aed0-4876-8658-39a876818912)![image](https://github.com/user-attachments/assets/48f7f3fe-86d4-4859-b545-7e73eebbaca9)
 ![image](https://github.com/user-attachments/assets/d5e90e68-f4e1-4e4e-9e9b-7dc99ab9ea7f)
 
 
@@ -26,3 +26,5 @@
 
 - [Linear Model](https://en.wikipedia.org/wiki/Linear_model)
  - [Least Squares](https://en.wikipedia.org/wiki/Least_squares)
+ - [Exercises](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
+  - [Repo](https://github.com/amaas/stanford_dl_ex/blob/master/ex1/ex1a_linreg.m)
