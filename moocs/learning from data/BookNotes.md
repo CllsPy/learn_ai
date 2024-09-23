@@ -9,3 +9,4 @@ Sometimes, because we don't have any analytical solution to our problem we need 
 
 ![image](https://github.com/user-attachments/assets/301f5416-d3ca-4cae-a5da-da1f15019abb)
 
+#### 1.1. 1 Components of Learning 
