@@ -14,7 +14,8 @@ Sometimes, because we don't have any analytical solution to our problem we need 
 The metaphor we'll use for de Learning Problem will be Credit Approval. Let's imagine that a bank wants to know if a specific client is worth to borrow money from them. Let's name our componets.
 - x user info (INPUT)
 - f. X  -> Y: The target function, a function that predict if the customer will pay back the bank.
-- D: Dataset
+- D: Dataset (per (xn, yn)
+- yn = f(xn) for n = 1, ..., N (number of inputs)
 - g: X -> Y (function that aproximates f (Algorithm)
 
 
