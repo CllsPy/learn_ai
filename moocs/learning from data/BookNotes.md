@@ -13,4 +13,4 @@ Sometimes, because we don't have any analytical solution to our problem we need 
 
 The metaphor we'll use for de Learning Problem will be Credit Approval. Let's imagine that a bank wants to know if a specific client is worth to borrow money from them. Let's name our componets.
 - x user info (INPUT)
-- $y$ = f(x) The target function, a function that predict if the customer will pay back the bank.
+- $f:$ $X$ -> $Y$ The target function, a function that predict if the customer will pay back the bank.
