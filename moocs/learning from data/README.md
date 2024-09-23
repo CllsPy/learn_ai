@@ -4,8 +4,8 @@
 
  - [X] Lecture 1: The Learning Problem
 -  [X] Lecture 2: Is Learning Feasible?
--  [ ]  Lecture 3: The Linear Model I
--  [ ] Lecture 4: Error and Noise
+-  [X]  Lecture 3: The Linear Model I
+-  [X] Lecture 4: Error and Noise
 -  [ ] Lecture 5: Training versus Testing
 -  [ ] Lecture 6: Theory of Generalization
 -  [ ] Lecture 7: The VC Dimension
