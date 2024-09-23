@@ -6,3 +6,6 @@ Sometimes, because we don't have any analytical solution to our problem we need 
 ![image](https://github.com/user-attachments/assets/3d9a89fd-6d86-449e-9f5a-bc960b092391)
 
 ### 1.1 Problem Setup
+
+![image](https://github.com/user-attachments/assets/301f5416-d3ca-4cae-a5da-da1f15019abb)
+
