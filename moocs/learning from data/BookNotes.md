@@ -9,7 +9,7 @@ Sometimes, because we don't have any analytical solution to our problem we need 
 
 ![image](https://github.com/user-attachments/assets/301f5416-d3ca-4cae-a5da-da1f15019abb)
 
-#### 1.1. 1 Components of Learning 
+#### [1.1. 1 Components of Learning ](https://colab.research.google.com/drive/1UkSEPbnI7ECT5AvGhm0An34bpzHvjj-3?usp=sharing)
 
 The metaphor we'll use for de Learning Problem will be Credit Approval. Let's imagine that a bank wants to know if a specific client is worth to borrow money from them. Let's name our componets.
 - x user info (INPUT)
