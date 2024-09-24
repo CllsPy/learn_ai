@@ -25,4 +25,10 @@ The metaphor we'll use for de Learning Problem will be Credit Approval. Let's im
 
 Differente of the data and of the target function the hipoteshis `H` is our choose. Also, we can call the hipoteshis, **the learning model**.
 
-We know that x ∈ %R^{d}%
+We know that x ∈ R^{d} (Euclidian Space). Where, x represents the input vector which contains informations about the credit card application e.g
+- salary
+- houses
+- age
+- [...]
+
+We can choose a learning model, where h ∈ H. Where h(x) approximate our target function f(x) = y. For that we multiply x by weights (a vector of weight) to create a score, and based on a threshold we determine if we accept or not de application, sice y = {+1, 1} or (yes/no).
