@@ -24,3 +24,5 @@ The metaphor we'll use for de Learning Problem will be Credit Approval. Let's im
 #### 1. 1.2 A Simple Learning Model 
 
 Differente of the data and of the target function the hipoteshis `H` is our choose. Also, we can call the hipoteshis, **the learning model**.
+
+We know that x ∈ %R^[d]$
