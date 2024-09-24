@@ -20,3 +20,6 @@ The metaphor we'll use for de Learning Problem will be Credit Approval. Let's im
 
 
 ![image](https://github.com/user-attachments/assets/8d75fe06-cb62-4049-86e8-47dbcb8de1cb)
+
+#### 1. 1.2 A Simple Learning Model 
+
