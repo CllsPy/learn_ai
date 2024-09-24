@@ -32,3 +32,5 @@ We know that x ∈ R^{d} (Euclidian Space). Where, x represents the input vector
 - [...]
 
 We can choose a learning model, where h ∈ H. Where h(x) approximate our target function f(x) = y. For that we multiply x by weights (a vector of weight) to create a score, and based on a threshold we determine if we accept or not de application, sice y = {+1, 1} or (yes/no).
+
+![image](https://github.com/user-attachments/assets/2e2de145-36f8-429f-8f23-dd317021a242)
