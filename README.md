@@ -47,4 +47,5 @@ source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?c
 - 👩‍💻 [Lil](https://lilianweng.github.io/)
 - 🌐 [Neo](https://www.bneo.xyz/)
 - 🧠 [Leonie](https://x.com/helloiamleonie)
+- [Gautam Kunapuli](https://gkunapuli.github.io/teaching/)
 
