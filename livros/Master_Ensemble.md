@@ -12,3 +12,5 @@ during prediction?
 
 - for reg we use avereginf
 - for classficiation we use mojority of votes
+
+### 2.2.1 Intuition: Resampling and model aggregation
