@@ -10,3 +10,5 @@ during prediction?
 
 ![image](https://github.com/user-attachments/assets/b291724f-b4cb-4aa3-bb83-c99286baeef7)
 
+- for reg we use avereginf
+- for classficiation we use mojority of votes
