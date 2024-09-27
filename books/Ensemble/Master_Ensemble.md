@@ -14,3 +14,15 @@ during prediction?
 - for classficiation we use mojority of votes
 
 ### 2.2.1 Intuition: Resampling and model aggregation
+
+**Booststrap sample** is when the datasets have the same length. This also implies that some values will be sampled more than one time, when other may be never sampled.
+
+![image](https://github.com/user-attachments/assets/5502ebbf-9740-4f68-b6e5-fd0b61f4828d)
+
+### THE OUT-OF-BAG SAMPLE
+
+The OOB sample allowed you to validate your data, by creatinf a set of values that weren't never been seen.
+
+> To summarize:
+after one round of bootstrap sampling, we get one bootstrap sample (for training a
+base estimator) and a corresponding OOB sample (to evaluate that base estimator). 
