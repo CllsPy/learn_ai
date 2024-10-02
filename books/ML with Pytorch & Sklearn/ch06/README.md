@@ -12,3 +12,5 @@ This way we'll have a less biased test set for eval our ml model.
 ![image](https://github.com/user-attachments/assets/b8b93ec3-54a9-4f04-b53f-9fa79918b99e)
 
 The disavantage of the hold-out set is that, the quality depens of the dataset. So, for minimize that we'll use another strategy of cross-val (K-fold). K-fold creates a hold-out for k folds and we can verify how the model interages with each one.
+
+K-folds works that way: The train data is splited in (for k=5). 4 folds and the model is tested in the lefted fold. It helps better estimation.
