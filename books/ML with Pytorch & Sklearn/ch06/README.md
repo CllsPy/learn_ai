@@ -26,3 +26,9 @@ One can use learning curves and validation curves to verify the model performanc
 In Underfitting problems use change de model complexity (improve it) e.g:
 - more parameters
 - less regularization
+
+ For overfitting we do the reverse:
+
+ - less parameters
+ - more regularization
+ - also, we can use feature selection
