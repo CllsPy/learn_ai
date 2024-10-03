@@ -16,3 +16,9 @@ The disavantage of the hold-out set is that, the quality depens of the dataset. 
 K-folds works that way: The train data is splited in (for k=5). 4 folds and the model is tested in the lefted fold. It helps better estimation.
 
 ![image](https://github.com/user-attachments/assets/5739e615-8f9e-45a8-8307-01d69cf2fb14)
+
+## Debugging algorithms with learning and validation curves
+
+One can use learning curves and validation curves to verify the model performance and look for overfitting (high variance) or underfitting (high bias).
+
+![image](https://github.com/user-attachments/assets/fd97068f-1642-4240-b00a-529903ccf23c)
