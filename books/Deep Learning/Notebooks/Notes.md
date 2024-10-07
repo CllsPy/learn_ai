@@ -17,3 +17,6 @@ A tensor has three elements
 - shape (.shape)
 - type (dtype)
 - number of axis (ndim) or rank
+
+## 2.3 The gears of NNs
+
