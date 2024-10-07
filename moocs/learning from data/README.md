@@ -39,3 +39,5 @@ We can choose a learning model, where h ∈ H. Where h(x) approximate our target
 The Design problem has analytical solution and you can aproximate f, without any data. The learning problem aproximates f, by using the data and f don't need to have a analytical solution
 
 
+## Is learning feasible
+Out target function f(x), needs to be **unknown**.
