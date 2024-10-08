@@ -5,14 +5,16 @@
 source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?curius=4829
 
 ## Roadmap (Books)
-- Theorical
+- **Theorical**
   - Learning From Data [Machine Learning]
   - Ian Goodfellow and Yoshua Bengio and Aaron Courville [Deep Learning]
 
+- **Pratical**
+  -  Machine Learning with PyTorch and Scikit-Learn
+  -  Natural Language Processing with Transformers
+
+
 0. An Introduction to Statiscal Learning with Applications in R
-1. Machine Learning with PyTorch and Scikit-Learn: _Develop machine learning and deep learning models with Python_
-2. Natural Language Processing with Transformers: _Building Language Applications  with Hugging Face_
-3. Ian Goodfellow and Yoshua Bengio and Aaron Courville
 4. Web Application Development with Streamlit
 
 ## References
