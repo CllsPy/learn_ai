@@ -13,7 +13,7 @@ source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?c
   -  Machine Learning with PyTorch and Scikit-Learn
   -  Natural Language Processing with Transformers
 
-## References
+### References
   - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
   - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
   - [AI and DS - Roadmap](https://roadmap.sh/ai-data-scientist)
@@ -42,7 +42,7 @@ source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?c
   - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
   - [How to Write a Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
 
-## Acknowledgements
+### Acknowledgements
 - 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 - 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
 - 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
