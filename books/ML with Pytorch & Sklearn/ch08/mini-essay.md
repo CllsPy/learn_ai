@@ -7,7 +7,7 @@ NLP is a field that involves Artificial Inteligence and CS, the goal is to proce
 To use NLP with ML we need to apply some techiniques, the point is to encoded text and make it understanble for machines.
 
 ### Bag Of Words
-Bag Of Words consist in count the frequency of each word in a sentence.
+Bag Of Words consist in count the frequency of each word in a sentence. We use to encode text, As we do when we apply label enconding. 
 
 ### Stop Words
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
