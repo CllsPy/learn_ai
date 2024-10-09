@@ -28,15 +28,11 @@ Vocab.
 'cake'
 'life'
 
-Each line is a document and the three line the corpus of text.
+Each line is a document and the three line the corpus of text.Let's count the occurance based on our vocab in each document.
 
-Let's count the occurance based on our vocab in each document.
-
-i like water  = [1, 1, 0, 0]
-i like cake = [1, 1, 0, 1, 0]
-i like life  = [1, 1, 0, 0, 1]
-
-
+- i like water  = [1, 1, 0, 0]
+- i like cake = [1, 1, 0, 1, 0]
+- i like life  = [1, 1, 0, 0, 1]
 
 ### Stop Words
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
