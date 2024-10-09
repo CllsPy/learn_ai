@@ -6,6 +6,10 @@ NLP is a field that involves Artificial Inteligence and CS, the goal is to proce
 ## How to use NLP with ML
 To use NLP with ML we need to apply some techiniques, the point is to encoded text and make it understanble for machines.
 
+
+### Clean Data
+The single most important thing about working with raw text is to clean it to apply another techiniques as BOW and tf-idf.
+
 ### Bag Of Words
 Since ML models don't like to work with messy data, Bag Of Words (BOW)  is a techinique that consist in count the frequency of each word in a sentence, this way we create a vector from it., we call this multiplicity, the down side is that all syntaxe is lost but it helps encode text so the machine can understand and learn from it.
 
