@@ -34,11 +34,11 @@ Each line is a document and the three line the corpus of text.Let's count the oc
 - i like cake = [1, 1, 0, 1, 0]
 - i like life  = [1, 1, 0, 0, 1]
 
+### tfdif
+Some words will apperar more than other, but it doesn't mean that they are more relevant, we need a techinique to downweight these words, one of them is td-idf.
+
 ### Stop Words
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
-
-### tfdif
-
 
 ## References
 - https://en.wikipedia.org/wiki/Bag-of-words_model
