@@ -46,7 +46,8 @@ Each line is a document and the three line the corpus of text.Let's count the oc
 Some words will apperar more than other, but it doesn't mean that they are more relevant, we need a techinique to downweight these words, one of them is td-idf.
 
 ### Tokenization
-We apply tokenization to remove space and split the raw text.
+We apply tokenization to remove space and split the raw text. Or You could use more sophistichated techinique as Stemmer, that transforms the words for it root form.
+- e.g running > runner.
 
 ### Stop Words
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
