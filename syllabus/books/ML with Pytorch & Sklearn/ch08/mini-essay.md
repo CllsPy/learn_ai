@@ -52,6 +52,9 @@ We apply tokenization to remove space and split the raw text. Or You could use m
 ### Stop Words
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
 
+### Train Test Split
+We need to divide data as in ML models, in Train and Test Data
+
 ## References
 - https://en.wikipedia.org/wiki/Bag-of-words_model
 - https://machinelearningmastery.com/gentle-introduction-bag-words-model/
