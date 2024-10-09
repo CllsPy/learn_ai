@@ -8,7 +8,11 @@ To use NLP with ML we need to apply some techiniques, the point is to encoded te
 
 
 ### Clean Data
-The single most important thing about working with raw text is to clean it to apply another techiniques as BOW and tf-idf.
+The single most important thing about working with raw text is to clean it to apply another techiniques as BOW and tf-idf. It imples:
+
+- remove HTML
+- remove emoticon
+- etc
 
 ### Bag Of Words
 Since ML models don't like to work with messy data, Bag Of Words (BOW)  is a techinique that consist in count the frequency of each word in a sentence, this way we create a vector from it., we call this multiplicity, the down side is that all syntaxe is lost but it helps encode text so the machine can understand and learn from it.
@@ -40,6 +44,9 @@ Each line is a document and the three line the corpus of text.Let's count the oc
 
 ### tfdif
 Some words will apperar more than other, but it doesn't mean that they are more relevant, we need a techinique to downweight these words, one of them is td-idf.
+
+### Tokenization
+We apply tokenization to remove space and split the raw text.
 
 ### Stop Words
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
