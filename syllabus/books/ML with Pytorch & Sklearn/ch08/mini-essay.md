@@ -7,7 +7,7 @@ NLP is a field that involves Artificial Inteligence and CS, the goal is to proce
 To use NLP with ML we need to apply some techiniques, the point is to encoded text and make it understanble for machines.
 
 ### Bag Of Words
-Since ML models don't like to work with messy data, Bag Of Words  is a techinique that consist in count the frequency of each word in a sentence, this way we create a vector from it., we call this multiplicity, the down side is that all syntaxe is lost but it helps encode text so the machine can understand and learn from it.
+Since ML models don't like to work with messy data, Bag Of Words (BOW)  is a techinique that consist in count the frequency of each word in a sentence, this way we create a vector from it., we call this multiplicity, the down side is that all syntaxe is lost but it helps encode text so the machine can understand and learn from it.
 
 BOW works based on two fundamentals premisses
 
@@ -38,3 +38,8 @@ Each line is a document and the three line the corpus of text.Let's count the oc
 Stop Words eliminate unecessary words from our text and that has little of none meaning.
 
 ### tfdif
+
+
+## References
+- https://en.wikipedia.org/wiki/Bag-of-words_model
+- https://machinelearningmastery.com/gentle-introduction-bag-words-model/
