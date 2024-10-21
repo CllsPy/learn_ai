@@ -19,3 +19,4 @@ references
 
 R1: https://machinelearningmastery.com/regression-metrics-for-machine-learning/
 
+R2: https://en.wikipedia.org/wiki/Mean_squared_error
