@@ -13,14 +13,21 @@ One important characteristc of mse is that it punishes models with high erros, o
 ![image](https://github.com/user-attachments/assets/5b31a0c0-ae05-47c0-b218-3033ab9ab590).
 
 ## MAE
-Mae, short for mean absolute error can be used when we want to compare, directly, two phenomenons, that are equals. If you remember the exemple of house princes, if you want to see clearly the mean error in dollars you use mae.
+Mae, short for mean absolute error can be used when we want to compare, directly, two phenomenons, that are equals. If you remember the exemple of house princes, if you want to see clearly the mean error in dollars you use mae. Another aspect is that we don't want use Mae for data in different scales, as said use mae for direct comparation.
 
 ![image](https://github.com/user-attachments/assets/a94ac9fd-efc5-4224-806d-879280b2c0ce)
 
 **R2**
 
-references
+## references
+
+- [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error)
+
+Don't use MAE for values with different Scales.
+
 
 R1: [1](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
 
 R2: [2](https://en.wikipedia.org/wiki/Mean_squared_error)
+
+- [Forecast Principles](https://otexts.com/fpp2/)
