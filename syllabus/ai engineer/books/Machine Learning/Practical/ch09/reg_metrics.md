@@ -30,9 +30,9 @@ As you saw, every metric have down and positives sides, each ones should match w
 
 ## references
 
-- [0](https://en.wikipedia.org/wiki/Mean_absolute_error)
-- [1](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
-- [2](https://en.wikipedia.org/wiki/Mean_squared_error)
+- [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error)
+- [Regression Metrics](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
+- [MSE](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Forecast Principles](https://otexts.com/fpp2/)
-- [R2](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+- [R²](https://en.wikipedia.org/wiki/Coefficient_of_determination)
 - [VitalFlux](https://vitalflux.com/mean-square-error-r-squared-which-one-to-use/)
