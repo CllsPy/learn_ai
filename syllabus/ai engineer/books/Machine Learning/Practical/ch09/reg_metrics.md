@@ -18,6 +18,9 @@ Mae, short for mean absolute error can be used when we want to compare, directly
 ![image](https://github.com/user-attachments/assets/a94ac9fd-efc5-4224-806d-879280b2c0ce)
 
 **R2**
+In predictive statistics R2 explain how well the model predict the target values.
+
+https://vitalflux.com/mean-square-error-r-squared-which-one-to-use/
 
 ## references
 
