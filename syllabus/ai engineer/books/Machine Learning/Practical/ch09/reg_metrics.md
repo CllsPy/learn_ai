@@ -12,6 +12,9 @@ One important characteristc of mse is that it punishes models with high erros, o
 ![image](https://github.com/user-attachments/assets/5b31a0c0-ae05-47c0-b218-3033ab9ab590).
 
 **mae**
+Mae, short for mean absolute error can be used when we want to compare, directly, two phenomenons, that are equals. If you remember the exemple of house princes, if you want to see clearly the mean error in dollars you use mae.
+
+![image](https://github.com/user-attachments/assets/a94ac9fd-efc5-4224-806d-879280b2c0ce)
 
 **r2**
 
