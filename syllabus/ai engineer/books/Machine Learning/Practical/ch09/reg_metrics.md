@@ -21,13 +21,7 @@ Mae, short for mean absolute error can be used when we want to compare, directly
 
 ## references
 
-- [MAE](https://en.wikipedia.org/wiki/Mean_absolute_error)
-
-Don't use MAE for values with different Scales.
-
-
-R1: [1](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
-
-R2: [2](https://en.wikipedia.org/wiki/Mean_squared_error)
-
+- [0](https://en.wikipedia.org/wiki/Mean_absolute_error)
+- [1](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
+- [2](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Forecast Principles](https://otexts.com/fpp2/)
