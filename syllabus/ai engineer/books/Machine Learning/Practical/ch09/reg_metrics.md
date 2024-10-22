@@ -18,7 +18,10 @@ Mae, short for mean absolute error can be used when we want to compare, directly
 ![image](https://github.com/user-attachments/assets/a94ac9fd-efc5-4224-806d-879280b2c0ce)
 
 **R2**
-In predictive statistics R2 explain how well the model predict the target values.
+In predictive statistics R2 explain how well the model predict the target values. Somes reasons for use R2 include:
+
+- Comparison: Use R2 to compare different regression models
+- Interpretability: If our R2 is 0.8 it means that 80% of our dependent variables can be explain by our independent variables.
 
 ![image](https://github.com/user-attachments/assets/c0043d3e-64b4-4e85-b6e7-b36837274524)
 
@@ -30,8 +33,13 @@ In predictive statistics R2 explain how well the model predict the target values
 - [Forecast Principles](https://otexts.com/fpp2/)
 
 
-## Reading List: https://en.wikipedia.org/wiki/Coefficient_of_determination
+## Reading List 1: 
+https://en.wikipedia.org/wiki/Coefficient_of_determination
 
-Coefficient Of Determination or Simply (R2) compute how much independent variables explain the target variables.
+- Coefficient Of Determination or Simply (R2) compute how much independent variables explain the target variables.
+- In predictive statistics R2 explain how well the model predict the target values.
 
-In predictive statistics R2 explain how well the model predict the target values.
+## Reading List 2: 
+https://vitalflux.com/mean-square-error-r-squared-which-one-to-use/
+
+R2 is a good choice when you need to compare multiples models
