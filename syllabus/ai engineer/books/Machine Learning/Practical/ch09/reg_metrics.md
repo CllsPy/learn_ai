@@ -1,4 +1,4 @@
-# Mini-Essay: Regression Metrics
+# Mini-Essay: Which Metrics Use For Evaluate Regression Models
 Regression, different from classical problems, in regression we need predict a numerical value. So, we need differente metrics. You can't use for exemple acc for supose how good your model is. Some metrics for regression are:
 
  - Mean Absolute Error (MAE)
@@ -25,3 +25,10 @@ Mae, short for mean absolute error can be used when we want to compare, directly
 - [1](https://machinelearningmastery.com/regression-metrics-for-machine-learning/)
 - [2](https://en.wikipedia.org/wiki/Mean_squared_error)
 - [Forecast Principles](https://otexts.com/fpp2/)
+
+
+## Reading List: https://en.wikipedia.org/wiki/Coefficient_of_determination
+
+Coefficient Of Determination or Simply (R2) compute how much independent variables explain the target variables.
+
+In predictive statistics R2 explain how well the model predict the target values.
