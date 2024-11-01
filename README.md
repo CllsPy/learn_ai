@@ -15,7 +15,11 @@
     - [ML Google For Devs](https://developers.google.com/machine-learning?hl=en)
 ## DL
 - Books
-  - Ian Goodfellow and Yoshua Bengio and Aaron Courville 
+  - Ian Goodfellow and Yoshua Bengio and Aaron Courville
+ 
+ - Blog
+   - [Deep Learning Book](https://www.deeplearningbook.com.br/ )
+
 ## MLOPS
 
 ### References
