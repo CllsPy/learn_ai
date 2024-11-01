@@ -3,6 +3,7 @@
 ## MATH
 - Books
   - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.fr/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
+  - [Calculus Made Easy](https://calculusmadeeasy.org/)
 ## STATS
 ## CODING
 ## EDA
