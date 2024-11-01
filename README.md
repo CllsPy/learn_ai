@@ -45,7 +45,6 @@
 - 🌐 [Neo](https://www.bneo.xyz/)
 - 🧠 [Leonie](https://x.com/helloiamleonie)
 - [Gautam Kunapuli](https://gkunapuli.github.io/teaching/)
-- ![image](https://github.com/user-attachments/assets/be241f95-effd-4404-8dfd-19974f46578e)
 
 ## Roadmap (Books)
 - **Theorical**
