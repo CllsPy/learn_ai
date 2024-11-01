@@ -1,12 +1,14 @@
 # 🤖 **Ultra-Learning Artificial Intelligence**
 
 ## MATH
+- Books
+  - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.fr/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
 ## STATS
 ## CODING
 ## EDA
 ## ML
 - Books
-  - Machine Learning with PyTorch and Scikit-Learn
+  - [Machine Learning with PyTorch and Scikit-Learn](https://www.amazon.fr/Machine-Learning-PyTorch-Scikit-Learn-learning/dp/1801819319?crid=1BZ1K40TH7BML&dib=eyJ2IjoiMSJ9.9yg8cwnXBFq04RJQdK79SwFjhzjR4fP4EMjh1KmmQLgdBno1pY-FmY5TWxiU6hv_taukDOGmQcsLrfftUrNqcGA0lrI-LFHdqfbLdYC1EJC9m7znegYAWPWvriUf8qjLHwPF_u-RqTU9vU1EDXaLkRXN35N6lvKPU6XPjN8R5NpO7t79t50yRIJRc8AjENa-_fPwgxt93SzNaViU2eQso1odGuCP_7VGhndT_OJUihfzqs7CadZHk7q5oT3Mtc1hPw9XGwt_UlJkBnDuqjl0FrdngPCf1SJKF4-hI2Am9CM.Pjq5rqO0O4__FF5pBpxFo5bKnAGU_WiLT4Plq62xUjE&dib_tag=se&keywords=machine+learning+with+pytorch+and+scikit-learn&qid=1730481361&sprefix=Machine+learning+wi%2Caps%2C325&sr=8-1)
   - Learning From Data 
 ## DL
 - Books
