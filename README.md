@@ -5,7 +5,12 @@
 ## CODING
 ## EDA
 ## ML
+- Books
+  - Machine Learning with PyTorch and Scikit-Learn
+  - Learning From Data 
 ## DL
+- Books
+  - Ian Goodfellow and Yoshua Bengio and Aaron Courville 
 ## MLOPS
 
 ### References
@@ -49,7 +54,7 @@
 ## Roadmap (Books)
 - **Theorical**
    - Learning From Data [Machine Learning]
-  - Ian Goodfellow and Yoshua Bengio and Aaron Courville [Deep Learning]
+  - 
 
 - **Pratical**
   -  Machine Learning with PyTorch and Scikit-Learn
