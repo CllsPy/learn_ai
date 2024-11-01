@@ -4,14 +4,13 @@
 
 source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?curius=4829
 
-## Roadmap (Books)
-- **Theorical**
-   - Learning From Data [Machine Learning]
-  - Ian Goodfellow and Yoshua Bengio and Aaron Courville [Deep Learning]
-
-- **Pratical**
-  -  Machine Learning with PyTorch and Scikit-Learn
-  -  Natural Language Processing with Transformers
+# MATH
+# STATS
+# CODING
+# EDA
+# ML
+# DL
+# MLOPS
 
 ### References
   - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
@@ -51,3 +50,11 @@ source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?c
 - 🧠 [Leonie](https://x.com/helloiamleonie)
 - [Gautam Kunapuli](https://gkunapuli.github.io/teaching/)
 
+## Roadmap (Books)
+- **Theorical**
+   - Learning From Data [Machine Learning]
+  - Ian Goodfellow and Yoshua Bengio and Aaron Courville [Deep Learning]
+
+- **Pratical**
+  -  Machine Learning with PyTorch and Scikit-Learn
+  -  Natural Language Processing with Transformers
