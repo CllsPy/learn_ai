@@ -1,16 +1,12 @@
 # 🤖 **Ultra-Learning Artificial Intelligence**
 
-![image](https://github.com/user-attachments/assets/be241f95-effd-4404-8dfd-19974f46578e)
-
-source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?curius=4829
-
-# MATH
-# STATS
-# CODING
-# EDA
-# ML
-# DL
-# MLOPS
+## MATH
+## STATS
+## CODING
+## EDA
+## ML
+## DL
+## MLOPS
 
 ### References
   - [StanfordEDx](https://github.com/amaas/stanford_dl_ex)
@@ -49,6 +45,7 @@ source: https://axelcasas.substack.com/p/master-anything-with-the-9-principles?c
 - 🌐 [Neo](https://www.bneo.xyz/)
 - 🧠 [Leonie](https://x.com/helloiamleonie)
 - [Gautam Kunapuli](https://gkunapuli.github.io/teaching/)
+- ![image](https://github.com/user-attachments/assets/be241f95-effd-4404-8dfd-19974f46578e)
 
 ## Roadmap (Books)
 - **Theorical**
