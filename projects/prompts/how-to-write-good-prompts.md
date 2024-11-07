@@ -9,7 +9,7 @@ is has some specific personality style? Do you want a list or a table?
 
 Every time you enter your prompt you receive a different answer
   
-**Ging examples**
+**Giving examples**
 
 You don't give to you model exemples of what do you expect be the output
   
