@@ -12,8 +12,35 @@ In supervised learning we have:
 
 train data [Size, Price] > Learning Algo. [Size] > Make Predictions H [Price]
 
+$$ 
+w =
+\begin{bmatrix}
+wo   \\
+wi   \\
+wii 
+\end{bmatrix}
+$$
 
+$$ 
+x =
+\begin{bmatrix}
+xo  \\
+xi   \\
+xii  
+\end{bmatrix}
+$$
 
+wo = 1 and xo = 1. xi = size, xii = nº bedrooms
+
+- we call w -> parameters.
+
+Our learning algorithm job is choose, the best w.
+
+- m -> number of rows (training exemples)
+- x -> number of colums/features/inputs
+- y -> output/arget
+- (x, y) -> one training exemple
+- $(x^{i}, y^{i})$ -> ith training exemple
 
 ## Questions
 
