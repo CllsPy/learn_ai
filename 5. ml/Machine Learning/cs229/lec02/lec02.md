@@ -41,18 +41,29 @@ Our learning algorithm job is choose, the best w.
 - y -> output/arget
 - (x, y) -> one training exemple
 - $(x^{i}, y^{i})$ -> ith training exemple
+- n (number of features,n=2)
+
+Linear Regression Algorithm is also called.  **ordinary least squares**. We want a θ that, minimaze
+
+
+$$\frac 1{2} \sum_{j=0}^{m} {(hθ(x^{i}) - y^{i})}^2$$ 
 
 ## Questions
 
-- How do we represente H (hypotesis)?
+- **How do we represente H (hypotesis)?**
 
-In Linear Regression, out h(x) = x*w + b, which is a linear equation.
+    In Linear Regression, out h(x) = x*w + b, which is a linear equation.
 
-If we have, let's say, more features:
+    If we have, let's say, more features:
 
-- [size]
-- [nº bedrooms]
+    - [size]
+    - [nº bedrooms]
 
-we simple, multiply by it too, so: h(x) = xi*xii*w + b or $$\mathrm{h(x)} = \sum_{j=0}^{2} xjwj + b $$, where xo = 1.
+    we simple, multiply by it too, so: h(x) = xi*xii*w + b or $$\mathrm{h(x)} = \sum_{j=0}^{2} xjwj + b $$, where xo = 1.
 
+- **How to we choose the parameters?**
+
+    We need choose a w(theta) such that h(x) ~ y. For our (x, y), training exemples.
+
+    hθ(x) = h(x)
 
