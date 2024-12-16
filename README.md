@@ -18,6 +18,16 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
   * Resources (choose one):
     * Khan Academy: [Linear Algebra](https://en.khanacademy.org/math/linear-algebra)
 
+
+## Phase 2: Programming Fundamentals
+* Python
+    * Goals: Become proficient in Python syntax and libraries.
+    * Harvard CS50: [Python](https://cs50.harvard.edu/python/2022/)
+    * Recommended Boks
+        * Fluent Python: Clear, Concise, and Effective Programming - Luciano Ramalho
+
+
+
 ## MATH
 - Books
   - [Why Machines Learn: The Elegant Math Behind Modern AI](https://www.amazon.fr/Why-Machines-Learn-Elegant-Behind/dp/0593185749)
