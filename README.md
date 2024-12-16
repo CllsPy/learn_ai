@@ -26,7 +26,10 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
     * Recommended Boks
         * Fluent Python: Clear, Concise, and Effective Programming - Luciano Ramalho
 
-
+## Phase 3: AI Fundamentals
+* Machine Learning
+  * Recommended Books
+    * CS229: [Lecture Notes](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)
 
 ## MATH
 - Books
