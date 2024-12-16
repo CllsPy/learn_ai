@@ -7,7 +7,8 @@
   * **Goals**: Understand derivatives, integrals, and fundamental theorems
   * Resources (Choose One):
     * Khan Academy:  Calculus [Difrential](https://en.khanacademy.org/math/differential-calculus) | [Integral](https://en.khanacademy.org/math/integral-calculus)
-    
+
+_Note: If you have time, learn about Gradient, it's great to understand how Gradient Descet and BackPropagation Works._
 
 ## MATH
 - Books
