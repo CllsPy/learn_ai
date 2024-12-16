@@ -28,6 +28,8 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
 
 ## Phase 3: AI Fundamentals
 * Machine Learning
+  * Goals: Understand supervised and unsupervised learning, large language
+  models, and reinforcement learning.
   * Recommended Books
     * CS229: [Lecture Notes](https://cs229.stanford.edu/lectures-spring2022/main_notes.pdf)
 
