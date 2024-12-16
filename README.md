@@ -7,10 +7,16 @@
   * **Goals**: Understand derivatives, integrals, and fundamental theorems
   * Resources (Choose One):
     * Khan Academy:  Calculus [Difrential](https://en.khanacademy.org/math/differential-calculus) | [Integral](https://en.khanacademy.org/math/integral-calculus)
-  * Recommended Books
+  * Recommended Books:
       *  [Calculus Made Easy](https://calculusmadeeasy.org/)
 
 _Note: If you have time, learn about Gradient, it's great to understand how Gradient Descet and BackPropagation Works._
+
+* Linear Algebra
+  * **Goals**: Master matrix operations, vector spaces, and linear
+  transformations.
+* Resources (choose one):
+    * Khan Academy: [Linear Algebra](https://en.khanacademy.org/math/linear-algebra)
 
 ## MATH
 - Books
