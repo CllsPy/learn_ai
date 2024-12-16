@@ -74,6 +74,7 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
 - 🌐 [Neo](https://www.bneo.xyz/)
 - 🧠 [Leonie](https://x.com/helloiamleonie)
 - [Gautam Kunapuli](https://gkunapuli.github.io/teaching/)
+- [EXA AI](https://cdn.prod.website-files.com/608338f07a8a726c265ad502/67245ae89ec6f0803f08b581_AI%20Roadmap_%20based%20on%20Stanford%20AI%20Graduate%20Certificate.pdf)
 
 ## Roadmap (Books)
 - **Theorical**
