@@ -6,7 +6,7 @@
 * Calculus
   * **Goals**: Understand derivatives, integrals, and fundamental theorems
   * Resources (Choose One):
-    * Khan Academy:  Calculus [Difrential](https://en.khanacademy.org/math/differential-calculus) | [Integral](https://en.khanacademy.org/math/integral-calculus)
+    * Khan Academy:  Calculus [Diferential](https://en.khanacademy.org/math/differential-calculus) | [Integral](https://en.khanacademy.org/math/integral-calculus)
   * Recommended Books:
       *  [Calculus Made Easy](https://calculusmadeeasy.org/)
 
