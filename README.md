@@ -15,7 +15,7 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
 * Linear Algebra
   * **Goals**: Master matrix operations, vector spaces, and linear
   transformations.
-* Resources (choose one):
+  * Resources (choose one):
     * Khan Academy: [Linear Algebra](https://en.khanacademy.org/math/linear-algebra)
 
 ## MATH
