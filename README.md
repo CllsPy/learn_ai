@@ -18,6 +18,11 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
   * Resources (choose one):
     * Khan Academy: [Linear Algebra](https://en.khanacademy.org/math/linear-algebra)
 
+* Probability and Statistics
+  * Goals
+    * Learn probability topics like counting, random variables, mean variance, Bayes’ theorem,  distributions, limit theorems
+    * Learn statistics topics like linear regression, classification,
+tree-based methods
 
 ## Phase 2: Programming Fundamentals
 * Python
