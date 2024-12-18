@@ -27,6 +27,8 @@ tree-based methods
     * Stats: [Learn statistics topics like linear regression, classification,tree-based methods](https://www.youtube.com/playlist?list=PL0IrMnm2latGOFhZTs8UUWz_RXy2NDXdL)
     * Khan Academy: [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 
+* All in one course: [Math Of Intelligence](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=2)
+
 ## Phase 2: Programming Fundamentals
 * Python
     * Goals: Become proficient in Python syntax and libraries.
