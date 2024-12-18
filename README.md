@@ -88,11 +88,11 @@ tree-based methods
  - [How to Write a Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
 
 ### Acknowledgements
-- 🚀 [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
-- 📚 [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
-- 📚 [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
-- 👩‍💻 [Lil](https://lilianweng.github.io/)
-- 🌐 [Neo](https://www.bneo.xyz/)
-- 🧠 [Leonie](https://x.com/helloiamleonie)
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- [Roadmap to Learn AI in 2024](https://medium.com/bitgrit-data-science-publication/a-roadmap-to-learn-ai-in-2024-cc30c6aa6e16)
+- [ML Engineer Roadmap](https://github.com/chris-chris/ml-engineer-roadmap)
+- [Lil](https://lilianweng.github.io/)
+- [Neo](https://www.bneo.xyz/)
+- [Leonie](https://x.com/helloiamleonie)
 - [Gautam Kunapuli](https://gkunapuli.github.io/teaching/)
 - [EXA AI](https://cdn.prod.website-files.com/608338f07a8a726c265ad502/67245ae89ec6f0803f08b581_AI%20Roadmap_%20based%20on%20Stanford%20AI%20Graduate%20Certificate.pdf)
