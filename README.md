@@ -30,6 +30,12 @@ tree-based methods
 * All in one course: [Math Of Intelligence](https://www.youtube.com/watch?v=g8D5YL6cOSE&list=PL2-dafEMk2A7mu0bSksCGMJEmeddU_H4D&index=2)
 
 ## Phase 2: Programming Fundamentals
+* Data Structures and Algorithms
+  * Goals: Learn common data structures and algorithms
+  * Resources
+      * [Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA&t=2277s)
+
+
 * Python
     * Goals: Become proficient in Python syntax and libraries.
     * Harvard CS50: [Python](https://cs50.harvard.edu/python/2022/)
