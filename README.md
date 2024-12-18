@@ -25,6 +25,7 @@ _Note: If you have time, learn about Gradient, it's great to understand how Grad
 tree-based methods
   * Resources
     * Stats: [Learn statistics topics like linear regression, classification,tree-based methods](https://www.youtube.com/playlist?list=PL0IrMnm2latGOFhZTs8UUWz_RXy2NDXdL)
+    * Khan Academy: [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 
 ## Phase 2: Programming Fundamentals
 * Python
