@@ -1,5 +1,6 @@
 # 🤖 **Ultra-Learning Artificial Intelligence**
 
+[Português]() | [English]()
 
 ## Phase 1: Prerequisite-Math Foundations
 
