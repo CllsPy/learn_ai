@@ -1,6 +1,6 @@
 # 🤖 **Ultra-Learning Artificial Intelligence**
 
-[Português]() | [English]()
+[Português](https://github.com/CllsPy/learnAI/blob/main/extra/others/AprendaIA.md) | [English]()
 
 ## Phase 1: Prerequisite-Math Foundations
 
