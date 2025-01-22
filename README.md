@@ -89,6 +89,7 @@ tree-based methods
  - [Don’t Be a Junior Developer: The Roadmap From Junior to Senior](https://zerotomastery.io/blog/dont-be-a-junior-developer-the-roadmap/)
  - [The Prompt Report: A Systematic Survey of Prompting Techniques](https://arxiv.org/pdf/2406.06608)
  - [How to Write a Paper](http://halfonlab.ccr.buffalo.edu/other_docs/scientific_paper.pdf)
+ - [MLE Job Hunt](https://www.yuan-meng.com/posts/newgrads/#tldr)
 
 ### Acknowledgements
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
