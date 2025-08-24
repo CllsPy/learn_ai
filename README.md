@@ -75,5 +75,3 @@ Estou aplicando este roadmap de IA como meu guia pessoal de estudos, documentand
 - [Exaltitude – AI Roadmap](https://www.exaltitude.io/job-seekers#Roadmap)  
 - Documento de referência: *AI Roadmap based on Stanford AI Graduate Certificate*  
 - Conteúdo e curadoria: **Jean K. Lee (Exaltitude)** – [YouTube](https://www.youtube.com/@exaltitude) | [LinkedIn](https://www.linkedin.com/in/jeanklee/)  
-
----
