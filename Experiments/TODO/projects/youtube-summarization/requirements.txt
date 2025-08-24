@@ -1,5 +1,0 @@
-torch 
-transformers
-sentencepiece
-youtube-transcript-api
-streamlit
