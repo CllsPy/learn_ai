@@ -3,8 +3,6 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f04dfcf8-cbe3-42ab-89d5-55db5991fb72" />
 
 Este repositório é um guia prático para você que deseja dominar os fundamentos de **Inteligência Artificial e Machine Learning**, inspirado no **Stanford AI Graduate Certificate** e organizado pela [Exaltitude](https://www.exaltitude.io/job-seekers#Roadmap).  
-Aqui você encontra uma trilha clara: das bases matemáticas até tópicos avançados como Deep Learning, NLP e Robótica.
-
 
 
 ## O que você pode esperar
