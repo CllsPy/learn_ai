@@ -1,9 +1,12 @@
 # Roadmap de Estudos em Inteligência Artificial
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f04dfcf8-cbe3-42ab-89d5-55db5991fb72" />
+
+
 Este guia é baseado no **Stanford AI Graduate Certificate** e organizado pela Exaltitude.  
 O objetivo é oferecer um caminho estruturado para desenvolver as habilidades essenciais em IA e Machine Learning, sem depender de programas pagos.
 
----
+
 
 ## O que esperar
 
@@ -11,7 +14,7 @@ O objetivo é oferecer um caminho estruturado para desenvolver as habilidades es
 - O foco não é “terminar rápido”, mas aprender de forma sólida.  
 - A jornada combina fundamentos teóricos, prática em programação e preparação de carreira.
 
----
+
 
 ## Estrutura do Roadmap
 
@@ -40,7 +43,7 @@ O objetivo é oferecer um caminho estruturado para desenvolver as habilidades es
 - **NLP com Deep Learning** (CS224N).  
 - **Robótica, RL e Modelos Probabilísticos**.  
 
----
+
 
 ## Desenvolvimento de Carreira
 
@@ -51,7 +54,6 @@ Além da parte técnica, este roadmap também cobre:
 
 Jean, fundador da Exaltitude, oferece materiais gratuitos e sessões de Q&A no LinkedIn sobre mercado de trabalho, entrevistas e tendências salariais em tecnologia.
 
----
 
 ## Dicas de Estudo
 
@@ -60,13 +62,11 @@ Jean, fundador da Exaltitude, oferece materiais gratuitos e sessões de Q&A no L
 - Participe de comunidades online e pratique com projetos.  
 - Estabeleça metas claras e celebre pequenos progressos.  
 
----
 
 ## O que estou fazendo agora
 
 Atualmente, estou estudando o **Roadmap de Inteligência Artificial** com base no material da Exaltitude e do Stanford AI Graduate Certificate, organizando os aprendizados em um formato prático de referência.
 
----
 
 ## Créditos e Inspiração
 
